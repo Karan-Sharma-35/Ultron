@@ -1,0 +1,16 @@
+base_model/
+adapters/*/checkpoints/
+__pycache__/
+*.pyc
+hud_state.json
+hud_display.json
+hud_shutdown.json
+hud_input_queue/
+.hud_browser_profile/
+
+# The placeholder icon is Marvel artwork: a local stand-in only, never published.
+assets/ultron.ico
+build/
+dist/
+release/
+*.bak-*

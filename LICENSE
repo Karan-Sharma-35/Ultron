@@ -1,0 +1,9 @@
+Copyright (c) 2026 Karan Sharma. All rights reserved.
+
+This repository is made available for viewing and evaluation only. No license is granted to copy, modify,
+merge, publish, distribute, sublicense, sell, or otherwise use this software or any part of it, in source or
+compiled form, without the prior written permission of the copyright holder.
+
+Third-party components are not covered by this notice and remain under their own licenses. In particular, the
+base model (microsoft/Phi-4-mini-instruct) is licensed by Microsoft under the MIT License, and is not included
+in this repository.

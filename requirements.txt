@@ -1,0 +1,13 @@
+# Versions the pipeline was developed and dry-run against (Python 3.14, Windows, RTX 5050 Laptop 8 GB).
+# Install PyTorch for YOUR CUDA version first (see pytorch.org), then the rest:
+#   pip install -r requirements.txt
+torch>=2.13
+transformers>=5.14
+peft>=0.19
+datasets>=5.0
+bitsandbytes>=0.50
+accelerate>=1.14
+huggingface_hub>=1.20
+psutil>=5.9
+pywebview>=6.2        # the native HUD window (WebView2 on Windows)
+pyinstaller>=6.21    # only for build_exe.py
