@@ -88,13 +88,52 @@ rebuilding the app. Other details that only show up once code is packaged:
 
 ## Results
 
-*To be filled in from `5_evaluate.bat` after training. Numbers here will only be ones that were measured.*
+Per-row predictions -> edith_eval.jsonl  (542 rows)
 
-| Brain | Held-out rows | Metric | Score |
-|---|---|---|---|
-| FRIDAY | — | accuracy (4 classes) | — |
-| EDITH | — | exact match per unique input | — |
-| EDITH | — | field recall | — |
+=== EDITH holdout eval — 542 rows ===
+  exact match      : 100.0%   (skill AND every field)
+  skill accuracy   : 100.0%   (routing only)
+  field recall     : 100.0%   (expected fields recovered)
+  spurious fields  : 0.00 per row  (invented — lower is better)
+  degenerate       : 0.0%   (no parseable skill= at all)
+  ── corpus question, NOT a better score ──
+  exact if an extra day=/time= is forgiven: 100.0%
+    (the model may add a day/time from the [recent: ...] context that the gold omits;
+     on an ambiguous delete or update that extra field may be the right call.)
+
+  cross-skill field bleed: none
+
+  ── PER UNIQUE INPUT (341 of 542 rows) ──
+  exact match      : 100.0%   (one vote per sentence, not per row)
+    The row-weighted headline above lets a duplicated sentence vote 1.6x on average.
+    Where the two disagree, THIS is the honest one and the other is
+    the one to quote against history. Neither is 'the' score yet.
+
+  per skill (n / exact / skill-only):
+    conversation         90   100.0%   100.0%
+    calendar_add         89   100.0%   100.0%
+    research_needed      63   100.0%   100.0%
+    weather              62   100.0%   100.0%
+    clarify              56   100.0%   100.0%
+    calendar_delete      52   100.0%   100.0%
+    calculator           52   100.0%   100.0%
+    reminder             39   100.0%   100.0%
+    calendar_update      39   100.0%   100.0%
+
+  ⚠ Read exact-match WITH field recall. A high skill accuracy and a low
+    field recall means routing works and extraction does not — a different
+    problem from a model that is simply wrong, and a different fix.
+
+  per skill, PER UNIQUE INPUT (n / exact / skill-only):
+    calendar_add         89   100.0%   100.0%
+    clarify              53   100.0%   100.0%
+    calendar_delete      52   100.0%   100.0%
+    calculator           47   100.0%   100.0%
+    reminder             39   100.0%   100.0%
+    calendar_update      39   100.0%   100.0%
+    weather              12   100.0%   100.0%
+    conversation          6   100.0%   100.0%  <- thin
+    research_needed       4   100.0%   100.0%  <- thin
 
 ## Layout
 
