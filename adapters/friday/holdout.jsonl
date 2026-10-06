@@ -1,0 +1,402 @@
+{"input": "make a script that sorts a list", "output": "code_domain"}
+{"input": "make a script that sorts a list", "output": "code_domain"}
+{"input": "make a script that sorts a list", "output": "code_domain"}
+{"input": "make a script that sorts a list", "output": "code_domain"}
+{"input": "make a script that sorts a list", "output": "code_domain"}
+{"input": "make a script that sorts a list", "output": "code_domain"}
+{"input": "make a script that sorts a list", "output": "code_domain"}
+{"input": "I have a meeting with Priya thursday at 12am", "output": "pa_domain"}
+{"input": "Thanks", "output": "conversation"}
+{"input": "Thanks", "output": "conversation"}
+{"input": "Thanks", "output": "conversation"}
+{"input": "Thanks", "output": "conversation"}
+{"input": "Thanks", "output": "conversation"}
+{"input": "create a program that sorts a list", "output": "code_domain"}
+{"input": "create a program that sorts a list", "output": "code_domain"}
+{"input": "create a program that sorts a list", "output": "code_domain"}
+{"input": "create a program that sorts a list", "output": "code_domain"}
+{"input": "create a program that sorts a list", "output": "code_domain"}
+{"input": "what's the current status of the weather warning", "output": "research_needed"}
+{"input": "what's the current status of the weather warning", "output": "research_needed"}
+{"input": "what's the current status of the weather warning", "output": "research_needed"}
+{"input": "what's the current status of the weather warning", "output": "research_needed"}
+{"input": "hey any news on the transit strike", "output": "research_needed"}
+{"input": "nudge me at 5am monday, need to email the laptop", "output": "pa_domain"}
+{"input": "I have a meeting tomorrow at 9 pm", "output": "pa_domain"}
+{"input": "remind me at 4 wednesday to pack the flight tickets", "output": "pa_domain"}
+{"input": "remind me at 2 sunday to prep for the resume", "output": "pa_domain"}
+{"input": "I'm terrible at remembering appointments without help", "output": "conversation"}
+{"input": "I'm terrible at remembering appointments without help", "output": "conversation"}
+{"input": "I'm terrible at remembering appointments without help", "output": "conversation"}
+{"input": "I'm terrible at remembering appointments without help", "output": "conversation"}
+{"input": "I'm terrible at remembering appointments without help", "output": "conversation"}
+{"input": "I'm terrible at remembering appointments without help", "output": "conversation"}
+{"input": "I'm terrible at remembering appointments without help", "output": "conversation"}
+{"input": "I'm terrible at remembering appointments without help", "output": "conversation"}
+{"input": "I'm terrible at remembering appointments without help", "output": "conversation"}
+{"input": "I'm terrible at remembering appointments without help", "output": "conversation"}
+{"input": "I'm terrible at remembering appointments without help", "output": "conversation"}
+{"input": "I'm terrible at remembering appointments without help", "output": "conversation"}
+{"input": "I'm terrible at remembering appointments without help", "output": "conversation"}
+{"input": "[recent: added 'check on the oven' event thursday at 8am] can you move the check on the oven event to 9am", "output": "pa_domain"}
+{"input": "what's the current price of laptop prices", "output": "research_needed"}
+{"input": "[recent: talking about a movie] for real though", "output": "conversation"}
+{"input": "[recent: talking about a movie] for real though", "output": "conversation"}
+{"input": "[recent: talking about a movie] for real though", "output": "conversation"}
+{"input": "[recent: talking about a movie] for real though", "output": "conversation"}
+{"input": "make sure I finish the report sunday at 8am", "output": "pa_domain"}
+{"input": "write me a script that checks if a number is prime", "output": "code_domain"}
+{"input": "write me a script that checks if a number is prime", "output": "code_domain"}
+{"input": "write me a script that checks if a number is prime", "output": "code_domain"}
+{"input": "write me a script that checks if a number is prime", "output": "code_domain"}
+{"input": "write me a script that checks if a number is prime", "output": "code_domain"}
+{"input": "write me a script that checks if a number is prime", "output": "code_domain"}
+{"input": "write me a script that checks if a number is prime", "output": "code_domain"}
+{"input": "write me a script that checks if a number is prime", "output": "code_domain"}
+{"input": "write me a script that checks if a number is prime", "output": "code_domain"}
+{"input": "write me a script that checks if a number is prime", "output": "code_domain"}
+{"input": "remind me at 12 wednesday to book the dog", "output": "pa_domain"}
+{"input": "yo lowkey remind me deadass at 8pm saturday to organize the laundry fr", "output": "pa_domain"}
+{"input": "calculate 4 minus 11", "output": "pa_domain"}
+{"input": "nudge me at 8pm tomorrow, need to pay the doctor", "output": "pa_domain"}
+{"input": "[recent: added 'dentist' event sunday at 12 pm] actually make that an hour later", "output": "pa_domain"}
+{"input": "not sure how I feel about this build", "output": "conversation"}
+{"input": "not sure how I feel about this build", "output": "conversation"}
+{"input": "not sure how I feel about this build", "output": "conversation"}
+{"input": "What have you been up to", "output": "conversation"}
+{"input": "What have you been up to", "output": "conversation"}
+{"input": "What have you been up to", "output": "conversation"}
+{"input": "What have you been up to", "output": "conversation"}
+{"input": "What have you been up to", "output": "conversation"}
+{"input": "What have you been up to", "output": "conversation"}
+{"input": "hey what did critics say about the next Paddington film", "output": "research_needed"}
+{"input": "what is seven minus sixteen", "output": "pa_domain"}
+{"input": "[recent: added 'cancel the plumber' event saturday at 11pm] change the timing for my cancel the plumber thing to be 12 pm instead of 11pm", "output": "pa_domain"}
+{"input": "[recent: added 'buy the laptop' event thursday at 10am] delete it", "output": "pa_domain"}
+{"input": "[recent: added 'water the kids' event today at 12 am] cancel that", "output": "pa_domain"}
+{"input": "[recent: how much is a new laptop right now] I think you hallucinated that", "output": "research_needed"}
+{"input": "hey when is the next Paddington film being released", "output": "research_needed"}
+{"input": "[recent: run this python snippet] that's not right", "output": "code_domain"}
+{"input": "[recent: run this python snippet] that's not right", "output": "code_domain"}
+{"input": "long day", "output": "conversation"}
+{"input": "long day", "output": "conversation"}
+{"input": "remind me at midnight today to sign the client", "output": "pa_domain"}
+{"input": "generate a function that finds the largest number in a list", "output": "code_domain"}
+{"input": "generate a function that finds the largest number in a list", "output": "code_domain"}
+{"input": "generate a function that finds the largest number in a list", "output": "code_domain"}
+{"input": "generate a function that finds the largest number in a list", "output": "code_domain"}
+{"input": "generate a function that finds the largest number in a list", "output": "code_domain"}
+{"input": "generate a function that finds the largest number in a list", "output": "code_domain"}
+{"input": "what is nine times ten", "output": "pa_domain"}
+{"input": "what is TV prices trading at", "output": "research_needed"}
+{"input": "what is TV prices trading at", "output": "research_needed"}
+{"input": "remind me at 7 monday to prep for the bank", "output": "pa_domain"}
+{"input": "what's Wimbledon's record this stage", "output": "research_needed"}
+{"input": "what's Wimbledon's record this stage", "output": "research_needed"}
+{"input": "[recent: added 'drop off the presentation' event tomorrow at 8 pm] can you move the drop off the presentation event to 9pm", "output": "pa_domain"}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "output": "code_domain"}
+{"input": "any news on the new MacBook?", "output": "research_needed"}
+{"input": "[recent: added 'charge the cat' event tomorrow at 4 am] put that meeting we talked about earlier back an hour", "output": "pa_domain"}
+{"input": "[recent: added 'water the trash' event sunday at 8am] cancel that", "output": "pa_domain"}
+{"input": "my function isn't hanging right", "output": "code_domain"}
+{"input": "my function isn't hanging right", "output": "code_domain"}
+{"input": "penciling in update the flight tickets for tuesday at 9pm", "output": "pa_domain"}
+{"input": "that reminder feature is neat", "output": "conversation"}
+{"input": "that reminder feature is neat", "output": "conversation"}
+{"input": "that reminder feature is neat", "output": "conversation"}
+{"input": "that reminder feature is neat", "output": "conversation"}
+{"input": "that reminder feature is neat", "output": "conversation"}
+{"input": "that reminder feature is neat", "output": "conversation"}
+{"input": "[recent: how much is a new laptop right now] no I meant this season not last", "output": "research_needed"}
+{"input": "[recent: why is my loop not terminating] no, the compiled one", "output": "code_domain"}
+{"input": "[recent: why is my loop not terminating] no, the compiled one", "output": "code_domain"}
+{"input": "schedule an event for friday at 4 am to sign the dentist", "output": "pa_domain"}
+{"input": "[recent: why is my loop not terminating] check that again", "output": "code_domain"}
+{"input": "[recent: move my dentist appointment to 4pm] check that again", "output": "pa_domain"}
+{"input": "[recent: when is the next Formula 1 race] I said the current price", "output": "research_needed"}
+{"input": "[recent: when is the next Formula 1 race] I said the current price", "output": "research_needed"}
+{"input": "what's the latest news for laptop prices", "output": "research_needed"}
+{"input": "what's the current time in Paris", "output": "pa_domain"}
+{"input": "what's the current time in Paris", "output": "pa_domain"}
+{"input": "morning ultron, busy day for you", "output": "conversation"}
+{"input": "did the Super Bowl win?", "output": "research_needed"}
+{"input": "[recent: run this python snippet] no I meant the compiled one", "output": "code_domain"}
+{"input": "[recent: run this python snippet] no I meant the compiled one", "output": "code_domain"}
+{"input": "could you please add an event for wednesday at 2 am to take out the trash", "output": "pa_domain"}
+{"input": "[recent: added 'install the bank' event tomorrow at 6pm] change the timing for my install the bank thing to be 7 pm instead of 6pm", "output": "pa_domain"}
+{"input": "penciling in print the presentation for monday at 6am", "output": "pa_domain"}
+{"input": "[recent: add lunch with Sam at 12:30] I said tomorrow not today", "output": "pa_domain"}
+{"input": "yo lowkey remind me deadass at 7 am tomorrow to review the cat fr", "output": "pa_domain"}
+{"input": "can you generate something that sorts a list", "output": "code_domain"}
+{"input": "can you generate something that sorts a list", "output": "code_domain"}
+{"input": "can you generate something that sorts a list", "output": "code_domain"}
+{"input": "can you generate something that sorts a list", "output": "code_domain"}
+{"input": "can you generate something that sorts a list", "output": "code_domain"}
+{"input": "remind me at 10 thursday to file the cat", "output": "pa_domain"}
+{"input": "when is the transit strike scheduled", "output": "research_needed"}
+{"input": "when is the transit strike scheduled", "output": "research_needed"}
+{"input": "anything new about the interest rate decision", "output": "research_needed"}
+{"input": "anything new about the interest rate decision", "output": "research_needed"}
+{"input": "[recent: how is the home team doing in the league] actually this stage of the tournament", "output": "research_needed"}
+{"input": "how is the chess world championship doing in the standings", "output": "research_needed"}
+{"input": "when is the Formula 1 season being released", "output": "research_needed"}
+{"input": "[recent: how is the home team doing in the league] actually the current price", "output": "research_needed"}
+{"input": "hi", "output": "conversation"}
+{"input": "hi", "output": "conversation"}
+{"input": "hi", "output": "conversation"}
+{"input": "hi", "output": "conversation"}
+{"input": "hi", "output": "conversation"}
+{"input": "how far did the chess world championship get?", "output": "research_needed"}
+{"input": "set a reminder for 10 am friday to organize the passport renewal", "output": "pa_domain"}
+{"input": "ultron anything new about game console prices", "output": "research_needed"}
+{"input": "[recent: added 'print the laundry' event saturday at 12am] cancel the print the laundry event", "output": "pa_domain"}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "output": "code_domain"}
+{"input": "[recent: why is my loop not terminating] I mean the compiled one", "output": "code_domain"}
+{"input": "what's happening with the next Paddington film", "output": "research_needed"}
+{"input": "what's happening with the next Paddington film", "output": "research_needed"}
+{"input": "what's happening with the next Paddington film", "output": "research_needed"}
+{"input": "are TV prices cheaper now", "output": "research_needed"}
+{"input": "remind me at 6 sunday to pack the plants", "output": "pa_domain"}
+{"input": "anything new about the interest rate decision?", "output": "research_needed"}
+{"input": "good morning ultron, everything running okay", "output": "conversation"}
+{"input": "good morning ultron, everything running okay", "output": "conversation"}
+{"input": "good morning ultron, everything running okay", "output": "conversation"}
+{"input": "good morning ultron, everything running okay", "output": "conversation"}
+{"input": "good morning ultron, everything running okay", "output": "conversation"}
+{"input": "anything new about Bitcoin", "output": "research_needed"}
+{"input": "anything new about Bitcoin", "output": "research_needed"}
+{"input": "anything new about Bitcoin", "output": "research_needed"}
+{"input": "[recent: added 'repair the dog' event tuesday at 4am] put that meeting we talked about earlier back an hour", "output": "pa_domain"}
+{"input": "give me an update on gold prices?", "output": "research_needed"}
+{"input": "what's the current status of the NBA finals", "output": "research_needed"}
+{"input": "what's the current status of the NBA finals", "output": "research_needed"}
+{"input": "what's the current status of the NBA finals", "output": "research_needed"}
+{"input": "[recent: what's the rotten tomatoes score for the new Pixar movie] I said this season not last", "output": "research_needed"}
+{"input": "calculate 13 plus 8", "output": "pa_domain"}
+{"input": "[recent: added 'restart the trash' event tuesday at 12pm] cancel that", "output": "pa_domain"}
+{"input": "could you please add an event for today at 2am to meet with the resume", "output": "pa_domain"}
+{"input": "good afternoon ultron, what have you been up to", "output": "conversation"}
+{"input": "has the interest rate decision released yet", "output": "research_needed"}
+{"input": "has the interest rate decision released yet", "output": "research_needed"}
+{"input": "has the interest rate decision released yet", "output": "research_needed"}
+{"input": "has the interest rate decision released yet", "output": "research_needed"}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "output": "code_domain"}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "output": "code_domain"}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "output": "code_domain"}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "output": "code_domain"}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "output": "code_domain"}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "output": "code_domain"}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "output": "code_domain"}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "output": "code_domain"}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "output": "code_domain"}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "output": "code_domain"}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "output": "code_domain"}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "output": "code_domain"}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "output": "code_domain"}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "output": "code_domain"}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "output": "code_domain"}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "output": "code_domain"}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "output": "code_domain"}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "output": "code_domain"}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "output": "code_domain"}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "output": "code_domain"}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "output": "code_domain"}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "output": "code_domain"}
+{"input": "set up an event for monday at 10pm to walk the plumber", "output": "pa_domain"}
+{"input": "[recent: added 'team meeting' event monday at 1 am] actually make that an hour later", "output": "pa_domain"}
+{"input": "can you go through www.nationalgeographic.com/animals/", "output": "conversation"}
+{"input": "is the documentary about the ocean out yet", "output": "research_needed"}
+{"input": "what's happening with the interest rate decision", "output": "research_needed"}
+{"input": "what's happening with the interest rate decision", "output": "research_needed"}
+{"input": "what's happening with the interest rate decision", "output": "research_needed"}
+{"input": "eventbrite.com/e/networking-night-tickets remind me about this tomorrow", "output": "pa_domain"}
+{"input": "what was in my the meeting note", "output": "pa_domain"}
+{"input": "remind me at 11 friday to pick up the mail", "output": "pa_domain"}
+{"input": "create a program that reverses a string", "output": "code_domain"}
+{"input": "create a program that reverses a string", "output": "code_domain"}
+{"input": "create a program that reverses a string", "output": "code_domain"}
+{"input": "create a program that reverses a string", "output": "code_domain"}
+{"input": "check the stopwatch", "output": "pa_domain"}
+{"input": "could you please add an event for thursday at 8pm to restart mom", "output": "pa_domain"}
+{"input": "[recent: added 'text groceries' event tuesday at 11am] delete it", "output": "pa_domain"}
+{"input": "why is my loop not terminating", "output": "code_domain"}
+{"input": "is the next Paddington film out yet", "output": "research_needed"}
+{"input": "ping me tuesday at 9am to back up the presentation", "output": "pa_domain"}
+{"input": "generate a function that counts vowels in a word", "output": "code_domain"}
+{"input": "generate a function that counts vowels in a word", "output": "code_domain"}
+{"input": "what is nine divided by twelve", "output": "pa_domain"}
+{"input": "I have a meeting with my brother tuesday at 9 am", "output": "pa_domain"}
+{"input": "I have a meeting with the contractor sunday at 8 pm", "output": "pa_domain"}
+{"input": "let's keep going", "output": "conversation"}
+{"input": "let's keep going", "output": "conversation"}
+{"input": "let's keep going", "output": "conversation"}
+{"input": "let's keep going", "output": "conversation"}
+{"input": "let's keep going", "output": "conversation"}
+{"input": "let's keep going", "output": "conversation"}
+{"input": "what's 5 times 8", "output": "pa_domain"}
+{"input": "That match was something else", "output": "conversation"}
+{"input": "That match was something else", "output": "conversation"}
+{"input": "give me an update on the cricket world cup", "output": "research_needed"}
+{"input": "give me an update on the cricket world cup", "output": "research_needed"}
+{"input": "what is the next Pixel phone trading at", "output": "research_needed"}
+{"input": "what are the reviews for the new season of that detective show like", "output": "research_needed"}
+{"input": "what are the reviews for the new season of that detective show like", "output": "research_needed"}
+{"input": "set up an event for sunday at 1 am to fix dad", "output": "pa_domain"}
+{"input": "what's something interesting you know", "output": "conversation"}
+{"input": "what's something interesting you know", "output": "conversation"}
+{"input": "what's something interesting you know", "output": "conversation"}
+{"input": "what's something interesting you know", "output": "conversation"}
+{"input": "what's something interesting you know", "output": "conversation"}
+{"input": "what's something interesting you know", "output": "conversation"}
+{"input": "do we know when the interest rate decision drops?", "output": "research_needed"}
+{"input": "who won the game last night", "output": "research_needed"}
+{"input": "who won the game last night", "output": "research_needed"}
+{"input": "who won the game last night", "output": "research_needed"}
+{"input": "who won the game last night", "output": "research_needed"}
+{"input": "who won the game last night", "output": "research_needed"}
+{"input": "who won the game last night", "output": "research_needed"}
+{"input": "who won the game last night", "output": "research_needed"}
+{"input": "who won the game last night", "output": "research_needed"}
+{"input": "who won the game last night", "output": "research_needed"}
+{"input": "who won the game last night", "output": "research_needed"}
+{"input": "who won the game last night", "output": "research_needed"}
+{"input": "who won the game last night", "output": "research_needed"}
+{"input": "who won the game last night", "output": "research_needed"}
+{"input": "who won the game last night", "output": "research_needed"}
+{"input": "[recent: added 'go to the gym' event friday at 9pm] can you move the go to the gym event to 10pm", "output": "pa_domain"}
+{"input": "what is 4 divided by 1", "output": "pa_domain"}
+{"input": "I think my wifi router needs to be replaced", "output": "conversation"}
+{"input": "I think my wifi router needs to be replaced", "output": "conversation"}
+{"input": "I think my wifi router needs to be replaced", "output": "conversation"}
+{"input": "I think my wifi router needs to be replaced", "output": "conversation"}
+{"input": "I think my wifi router needs to be replaced", "output": "conversation"}
+{"input": "I think my wifi router needs to be replaced", "output": "conversation"}
+{"input": "I think my wifi router needs to be replaced", "output": "conversation"}
+{"input": "[recent: move my dentist appointment to 4pm] not that, at 3pm", "output": "pa_domain"}
+{"input": "do we know when the Super Bowl drops", "output": "research_needed"}
+{"input": "[recent: run this python snippet] that's not what I asked", "output": "code_domain"}
+{"input": "[recent: run this python snippet] that's not what I asked", "output": "code_domain"}
+{"input": "[recent: when is the next Formula 1 race] that doesn't match what I said", "output": "research_needed"}
+{"input": "what's happening with TV prices", "output": "research_needed"}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "output": "code_domain"}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "output": "code_domain"}
+{"input": "has the interest rate decision released yet?", "output": "research_needed"}
+{"input": "has the interest rate decision released yet?", "output": "research_needed"}
+{"input": "remind me at 12 saturday to pay groceries", "output": "pa_domain"}
+{"input": "my function isn't timing out right", "output": "code_domain"}
+{"input": "will it rain today in New York", "output": "pa_domain"}
+{"input": "will it rain today in New York", "output": "pa_domain"}
+{"input": "I have an appointment today at 2pm", "output": "pa_domain"}
+{"input": "[recent: added 'buy the trash' event sunday at 3pm] delete it", "output": "pa_domain"}
+{"input": "what is smartwatches trading at", "output": "research_needed"}
+{"input": "[recent: write a script that reverses a string] no, with the base as 4", "output": "code_domain"}
+{"input": "this function keeps timing out, any idea why", "output": "code_domain"}
+{"input": "[recent: added 'book the accountant' event saturday at 6 am] can you move the book the accountant event to 7am", "output": "pa_domain"}
+{"input": "remind me at 11 thursday to review the team", "output": "pa_domain"}
+{"input": "I have a meeting with my brother today at 9pm", "output": "pa_domain"}
+{"input": "make an event for wednesday at 10am to drop off the contract", "output": "pa_domain"}
+{"input": "[recent: added 'text the contract' event today at 9am] cancel that", "output": "pa_domain"}
+{"input": "remind me at 10 sunday to submit the budget", "output": "pa_domain"}
+{"input": "everyone's talking about the update", "output": "conversation"}
+{"input": "[recent: added 'pack groceries' event wednesday at 11 am] cancel that", "output": "pa_domain"}
+{"input": "what's 19 minus 9", "output": "pa_domain"}
+{"input": "what's happening with electric cars", "output": "research_needed"}
+{"input": "what's happening with electric cars", "output": "research_needed"}
+{"input": "what's happening with electric cars", "output": "research_needed"}
+{"input": "[recent: added 'check on groceries' event sunday at 9am] delete it", "output": "pa_domain"}
+{"input": "I'm torn between two options and need to talk it out", "output": "conversation"}
+{"input": "I'm torn between two options and need to talk it out", "output": "conversation"}
+{"input": "I'm torn between two options and need to talk it out", "output": "conversation"}
+{"input": "I'm torn between two options and need to talk it out", "output": "conversation"}
+{"input": "I'm torn between two options and need to talk it out", "output": "conversation"}
+{"input": "I'm torn between two options and need to talk it out", "output": "conversation"}
+{"input": "I'm torn between two options and need to talk it out", "output": "conversation"}
+{"input": "I'm torn between two options and need to talk it out", "output": "conversation"}
+{"input": "start a packing note", "output": "pa_domain"}
+{"input": "[recent: added 'back up the budget' event friday at 12am] change the timing for my back up the budget thing to be 1am instead of 12am", "output": "pa_domain"}
+{"input": "hi, you good", "output": "conversation"}
+{"input": "[recent: added 'buy the passport renewal' event saturday at 4am] put that meeting we talked about earlier back an hour", "output": "pa_domain"}
+{"input": "remind me at 6 saturday to fix groceries", "output": "pa_domain"}
+{"input": "this class keeps hanging, any ideas why", "output": "code_domain"}
+{"input": "how far did the Tour de France get", "output": "research_needed"}
+{"input": "[recent: added 'confirm mom' event today at 10pm] remove that event", "output": "pa_domain"}
+{"input": "[recent: added 'water the plants' event thursday at 9am] change the timing for my water the plants thing to be 10am instead of 9am", "output": "pa_domain"}
+{"input": "what time is it in Cairo right now", "output": "pa_domain"}
+{"input": "what's 15 minus 5", "output": "pa_domain"}
+{"input": "[recent: how is the home team doing in the league] check that again", "output": "research_needed"}
+{"input": "what's one divided by two", "output": "pa_domain"}
+{"input": "[recent: added 'submit the passport renewal' event tomorrow at 12pm] cancel that", "output": "pa_domain"}
+{"input": "add an event for today at noon to walk the dog", "output": "pa_domain"}
+{"input": "I've got something going on saturday evening", "output": "pa_domain"}

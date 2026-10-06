@@ -1,0 +1,542 @@
+{"input": "I have a meeting with my coworker sunday at 5am", "output": "skill=calendar_add; title=meeting with my coworker; day=sunday; time=05:00"}
+{"input": "can you set an event for wednesday at 12pm to organize the mail", "output": "skill=calendar_add; title=organize the mail; day=wednesday; time=12:00"}
+{"input": "[recent: added 'buy the plants' event today at 3pm] cancel the buy the plants event", "output": "skill=calendar_delete; title=buy the plants; day=today"}
+{"input": "what is 8 minus 4", "output": "skill=calculator; expression=8-4"}
+{"input": "I have a meeting with my roommate monday at 8am", "output": "skill=calendar_add; title=meeting with my roommate; day=monday; time=08:00"}
+{"input": "who holds that record right now", "output": "skill=research_needed"}
+{"input": "who holds that record right now", "output": "skill=research_needed"}
+{"input": "who holds that record right now", "output": "skill=research_needed"}
+{"input": "who holds that record right now", "output": "skill=research_needed"}
+{"input": "who holds that record right now", "output": "skill=research_needed"}
+{"input": "who holds that record right now", "output": "skill=research_needed"}
+{"input": "who holds that record right now", "output": "skill=research_needed"}
+{"input": "who holds that record right now", "output": "skill=research_needed"}
+{"input": "who holds that record right now", "output": "skill=research_needed"}
+{"input": "who holds that record right now", "output": "skill=research_needed"}
+{"input": "who holds that record right now", "output": "skill=research_needed"}
+{"input": "who holds that record right now", "output": "skill=research_needed"}
+{"input": "set a reminder for 7am tuesday to update the kids", "output": "skill=reminder; task=update the kids; day=tuesday; time=07:00"}
+{"input": "calculate eighteen plus fourteen", "output": "skill=calculator; expression=18+14"}
+{"input": "remind me at noon today to install the doctor", "output": "skill=reminder; task=install the doctor; day=today; time=12:00"}
+{"input": "what's it like outside today in New York", "output": "skill=weather; day=today; location=New York"}
+{"input": "[recent: added 'drop off the dentist' event friday at 10 pm] cancel that", "output": "skill=calendar_delete; title=drop off the dentist; day=friday"}
+{"input": "[recent: added 'submit the lease' event tuesday at 6pm] delete it", "output": "skill=calendar_delete; title=submit the lease; day=tuesday"}
+{"input": "remind me at 5 wednesday to renew the passport", "output": "skill=clarify; question=did you mean 5 AM or 5 PM?"}
+{"input": "I have a meeting with the professor monday at 4 pm", "output": "skill=calendar_add; title=meeting with the professor; day=monday; time=16:00"}
+{"input": "penciling in file the passport for tuesday at 7pm", "output": "skill=calendar_add; title=file the passport; day=tuesday; time=19:00"}
+{"input": "I'm torn between two options and need to talk it out", "output": "skill=conversation"}
+{"input": "I'm torn between two options and need to talk it out", "output": "skill=conversation"}
+{"input": "I'm torn between two options and need to talk it out", "output": "skill=conversation"}
+{"input": "I'm torn between two options and need to talk it out", "output": "skill=conversation"}
+{"input": "I'm torn between two options and need to talk it out", "output": "skill=conversation"}
+{"input": "I'm torn between two options and need to talk it out", "output": "skill=conversation"}
+{"input": "I'm torn between two options and need to talk it out", "output": "skill=conversation"}
+{"input": "I'm torn between two options and need to talk it out", "output": "skill=conversation"}
+{"input": "I'm torn between two options and need to talk it out", "output": "skill=conversation"}
+{"input": "I'm torn between two options and need to talk it out", "output": "skill=conversation"}
+{"input": "I'm torn between two options and need to talk it out", "output": "skill=conversation"}
+{"input": "I'm torn between two options and need to talk it out", "output": "skill=conversation"}
+{"input": "what's the temperature going to be today in my area", "output": "skill=weather; day=today; location=my area"}
+{"input": "what is 6 times 11", "output": "skill=calculator; expression=6*11"}
+{"input": "[recent: added 'file the laptop' event saturday at 6am] change the timing for my file the laptop thing to be 7am instead of 6am", "output": "skill=calendar_update; title=file the laptop; new_time=07:00; day=saturday"}
+{"input": "what's 2 minus 3", "output": "skill=calculator; expression=2-3"}
+{"input": "I have a meeting with John sunday at 11am", "output": "skill=calendar_add; title=meeting with John; day=sunday; time=11:00"}
+{"input": "schedule an event for wednesday at 6pm to visit the plumber", "output": "skill=calendar_add; title=visit the plumber; day=wednesday; time=18:00"}
+{"input": "[recent: added 'visit the doctor' event sunday at 12pm] move it forward an hour", "output": "skill=calendar_update; title=visit the doctor; new_time=13:00; day=sunday"}
+{"input": "[recent: added 'restart the meeting' event saturday at 10am] change the timing for my restart the meeting thing to be 11am instead of 10am", "output": "skill=calendar_update; title=restart the meeting; new_time=11:00; day=saturday"}
+{"input": "there's a call thursday at 9 pm", "output": "skill=clarify; question=what's it about, or who's it with?"}
+{"input": "I have a meeting with Alex monday at 10 am", "output": "skill=calendar_add; title=meeting with Alex; day=monday; time=10:00"}
+{"input": "what's 10 divided by 15", "output": "skill=calculator; expression=10/15"}
+{"input": "[recent: added 'repair the project' event today at 4am] cancel the repair the project event", "output": "skill=calendar_delete; title=repair the project; day=today"}
+{"input": "I have a meeting with Daniel friday at 5pm", "output": "skill=calendar_add; title=meeting with Daniel; day=friday; time=17:00"}
+{"input": "[recent: added 'file the router' event saturday at 4am] cancel that", "output": "skill=calendar_delete; title=file the router; day=saturday"}
+{"input": "remind me at 10 thursday to book the dog", "output": "skill=clarify; question=did you mean 10 AM or 10 PM?"}
+{"input": "set a reminder for 11 am wednesday to restart the client", "output": "skill=reminder; task=restart the client; day=wednesday; time=11:00"}
+{"input": "set up an event for thursday at 1 pm to clean the client", "output": "skill=calendar_add; title=clean the client; day=thursday; time=13:00"}
+{"input": "what's 13 times 2", "output": "skill=calculator; expression=13*2"}
+{"input": "[recent: added 'take out the trash' event today at 8am] put that meeting we talked about earlier back an hour", "output": "skill=calendar_update; title=take out the trash; new_time=09:00; day=today"}
+{"input": "add an event for monday at 11 am to call the kids", "output": "skill=calendar_add; title=call the kids; day=monday; time=11:00"}
+{"input": "should I bring an umbrella today in Toronto", "output": "skill=weather; day=today; location=Toronto"}
+{"input": "should I bring an umbrella today in Toronto", "output": "skill=weather; day=today; location=Toronto"}
+{"input": "should I bring an umbrella today in Toronto", "output": "skill=weather; day=today; location=Toronto"}
+{"input": "should I bring an umbrella today in Toronto", "output": "skill=weather; day=today; location=Toronto"}
+{"input": "remind me at 10 tomorrow to buy the car", "output": "skill=clarify; question=did you mean 10 AM or 10 PM?"}
+{"input": "what is 1 plus 1", "output": "skill=calculator; expression=1+1"}
+{"input": "what is 1 plus 1", "output": "skill=calculator; expression=1+1"}
+{"input": "I have a meeting with Ahmed wednesday at 9am", "output": "skill=calendar_add; title=meeting with Ahmed; day=wednesday; time=09:00"}
+{"input": "I'm nervous about a call tomorrow", "output": "skill=conversation"}
+{"input": "I'm nervous about a call tomorrow", "output": "skill=conversation"}
+{"input": "I'm nervous about a call tomorrow", "output": "skill=conversation"}
+{"input": "I'm nervous about a call tomorrow", "output": "skill=conversation"}
+{"input": "I'm nervous about a call tomorrow", "output": "skill=conversation"}
+{"input": "I'm nervous about a call tomorrow", "output": "skill=conversation"}
+{"input": "I'm nervous about a call tomorrow", "output": "skill=conversation"}
+{"input": "I'm nervous about a call tomorrow", "output": "skill=conversation"}
+{"input": "I'm nervous about a call tomorrow", "output": "skill=conversation"}
+{"input": "I'm nervous about a call tomorrow", "output": "skill=conversation"}
+{"input": "I'm nervous about a call tomorrow", "output": "skill=conversation"}
+{"input": "I'm nervous about a call tomorrow", "output": "skill=conversation"}
+{"input": "I'm nervous about a call tomorrow", "output": "skill=conversation"}
+{"input": "I have a meeting with Raj monday at 6am", "output": "skill=calendar_add; title=meeting with Raj; day=monday; time=06:00"}
+{"input": "[recent: added 'check on the oven' event friday at 9pm] can you move the check on the oven event to 10pm", "output": "skill=calendar_update; title=check on the oven; new_time=22:00; day=friday"}
+{"input": "calculate 11 divided by 2", "output": "skill=calculator; expression=11/2"}
+{"input": "I have a meeting with my manager thursday at 10 am", "output": "skill=calendar_add; title=meeting with my manager; day=thursday; time=10:00"}
+{"input": "I think I'm burnt out from work", "output": "skill=conversation"}
+{"input": "I think I'm burnt out from work", "output": "skill=conversation"}
+{"input": "I think I'm burnt out from work", "output": "skill=conversation"}
+{"input": "I think I'm burnt out from work", "output": "skill=conversation"}
+{"input": "I think I'm burnt out from work", "output": "skill=conversation"}
+{"input": "I think I'm burnt out from work", "output": "skill=conversation"}
+{"input": "I think I'm burnt out from work", "output": "skill=conversation"}
+{"input": "I think I'm burnt out from work", "output": "skill=conversation"}
+{"input": "I think I'm burnt out from work", "output": "skill=conversation"}
+{"input": "I think I'm burnt out from work", "output": "skill=conversation"}
+{"input": "I think I'm burnt out from work", "output": "skill=conversation"}
+{"input": "I think I'm burnt out from work", "output": "skill=conversation"}
+{"input": "I think I'm burnt out from work", "output": "skill=conversation"}
+{"input": "I think I'm burnt out from work", "output": "skill=conversation"}
+{"input": "[recent: added 'pay the bank' event tomorrow at 10am] remove that event", "output": "skill=calendar_delete; title=pay the bank; day=tomorrow"}
+{"input": "[recent: added 'check the oven' event monday at 5 am] cancel the check the oven event", "output": "skill=calendar_delete; title=check the oven; day=monday"}
+{"input": "[recent: added 'email the flight tickets' event friday at 8am] delete it", "output": "skill=calendar_delete; title=email the flight tickets; day=friday"}
+{"input": "what is eleven divided by two", "output": "skill=calculator; expression=11/2"}
+{"input": "remind me at 11 thursday to renew the garden", "output": "skill=clarify; question=did you mean 11 AM or 11 PM?"}
+{"input": "schedule an event for sunday at 1pm to cancel the insurance", "output": "skill=calendar_add; title=cancel the insurance; day=sunday; time=13:00"}
+{"input": "remind me at 10 friday to print dad", "output": "skill=clarify; question=did you mean 10 AM or 10 PM?"}
+{"input": "[recent: added 'confirm the resume' event monday at 3pm] can you move the confirm the resume event to 4pm", "output": "skill=calendar_update; title=confirm the resume; new_time=16:00; day=monday"}
+{"input": "calculate thirteen divided by sixteen", "output": "skill=calculator; expression=13/16"}
+{"input": "what is three plus thirteen", "output": "skill=calculator; expression=3+13"}
+{"input": "[recent: added 'meet with the laptop' event today at 9am] move it forward an hour", "output": "skill=calendar_update; title=meet with the laptop; new_time=10:00; day=today"}
+{"input": "[recent: added 'return the flight tickets' event today at 9pm] delete it", "output": "skill=calendar_delete; title=return the flight tickets; day=today"}
+{"input": "[recent: added 'pick up the lease' event sunday at 3 pm] move it forward an hour", "output": "skill=calendar_update; title=pick up the lease; new_time=16:00; day=sunday"}
+{"input": "I've got to sign the team tomorrow at 5pm", "output": "skill=calendar_add; title=sign the team; day=tomorrow; time=17:00"}
+{"input": "remind me at 8 monday to check on the flight tickets", "output": "skill=clarify; question=did you mean 8 AM or 8 PM?"}
+{"input": "remind me at 3 friday to update the doctor", "output": "skill=clarify; question=did you mean 3 AM or 3 PM?"}
+{"input": "I've got to finish the passport wednesday at 11 pm", "output": "skill=calendar_add; title=finish the passport; day=wednesday; time=23:00"}
+{"input": "what's seven plus twenty", "output": "skill=calculator; expression=7+20"}
+{"input": "what's seven plus twenty", "output": "skill=calculator; expression=7+20"}
+{"input": "remind me at 8 today to visit the mail", "output": "skill=clarify; question=did you mean 8 AM or 8 PM?"}
+{"input": "penciling in email the interview for thursday at 10pm", "output": "skill=calendar_add; title=email the interview; day=thursday; time=22:00"}
+{"input": "remind me at 10 monday to clean the presentation", "output": "skill=clarify; question=did you mean 10 AM or 10 PM?"}
+{"input": "remind me at 7 monday to confirm dad", "output": "skill=clarify; question=did you mean 7 AM or 7 PM?"}
+{"input": "[recent: added 'prep for the insurance' event tomorrow at 1am] move it forward an hour", "output": "skill=calendar_update; title=prep for the insurance; new_time=02:00; day=tomorrow"}
+{"input": "add an event for wednesday at midnight to renew the passport", "output": "skill=calendar_add; title=renew the passport; day=wednesday; time=00:00"}
+{"input": "dont let me forget to visit the interview at 5am saturday", "output": "skill=reminder; task=visit the interview; day=saturday; time=05:00"}
+{"input": "[recent: added 'book the mail' event saturday at 3 am] remove that event", "output": "skill=calendar_delete; title=book the mail; day=saturday"}
+{"input": "I have a meeting saturday at 5am", "output": "skill=clarify; question=what's it about, or who's it with?"}
+{"input": "I have a meeting with the team sunday at 7am", "output": "skill=calendar_add; title=meeting with the team; day=sunday; time=07:00"}
+{"input": "nudge me at 5pm monday, need to confirm the contract", "output": "skill=reminder; task=confirm the contract; day=monday; time=17:00"}
+{"input": "I have a meeting with Daniel wednesday at 6pm", "output": "skill=calendar_add; title=meeting with Daniel; day=wednesday; time=18:00"}
+{"input": "block off wednesday morning at 11pm for walk the garden", "output": "skill=calendar_add; title=walk the garden; day=wednesday; time=23:00"}
+{"input": "calculate twenty minus six", "output": "skill=calculator; expression=20-6"}
+{"input": "calculate one minus seven", "output": "skill=calculator; expression=1-7"}
+{"input": "remind me at 1 wednesday to review the landlord", "output": "skill=clarify; question=did you mean 1 AM or 1 PM?"}
+{"input": "add an event for tomorrow at noon to walk the flight tickets", "output": "skill=calendar_add; title=walk the flight tickets; day=tomorrow; time=12:00"}
+{"input": "[recent: added 'pack the oven' event wednesday at 1am] delete it", "output": "skill=calendar_delete; title=pack the oven; day=wednesday"}
+{"input": "[recent: added 'check on the project' event today at 6 am] cancel the check on the project event", "output": "skill=calendar_delete; title=check on the project; day=today"}
+{"input": "remind me at 8 monday to water dad", "output": "skill=clarify; question=did you mean 8 AM or 8 PM?"}
+{"input": "what is nine divided by seventeen", "output": "skill=calculator; expression=9/17"}
+{"input": "put review the trash on the calendar for tuesday at two pm", "output": "skill=calendar_add; title=review the trash; day=tuesday; time=14:00"}
+{"input": "what's three divided by four", "output": "skill=calculator; expression=3/4"}
+{"input": "[recent: added 'pack the trash' event monday at 10pm] change the timing for my pack the trash thing to be 11pm instead of 10pm", "output": "skill=calendar_update; title=pack the trash; new_time=23:00; day=monday"}
+{"input": "I need to buy the electrician sunday at 2am", "output": "skill=calendar_add; title=buy the electrician; day=sunday; time=02:00"}
+{"input": "remind me at 4 friday to repair the resume", "output": "skill=clarify; question=did you mean 4 AM or 4 PM?"}
+{"input": "I have a meeting with my brother saturday at 4pm", "output": "skill=calendar_add; title=meeting with my brother; day=saturday; time=16:00"}
+{"input": "what is 20 times 13", "output": "skill=calculator; expression=20*13"}
+{"input": "I have a meeting with the landlord tomorrow at 12am", "output": "skill=calendar_add; title=meeting with the landlord; day=tomorrow; time=00:00"}
+{"input": "remind me at midnight tuesday to update the meeting", "output": "skill=reminder; task=update the meeting; day=tuesday; time=00:00"}
+{"input": "do I need a jacket today in Toronto", "output": "skill=weather; day=today; location=Toronto"}
+{"input": "do I need a jacket today in Toronto", "output": "skill=weather; day=today; location=Toronto"}
+{"input": "do I need a jacket today in Toronto", "output": "skill=weather; day=today; location=Toronto"}
+{"input": "do I need a jacket today in Toronto", "output": "skill=weather; day=today; location=Toronto"}
+{"input": "[recent: added 'clean the presentation' event tuesday at 2am] cancel the clean the presentation event", "output": "skill=calendar_delete; title=clean the presentation; day=tuesday"}
+{"input": "[recent: added 'buy the flight tickets' event sunday at 9 pm] cancel the buy the flight tickets event", "output": "skill=calendar_delete; title=buy the flight tickets; day=sunday"}
+{"input": "is it sunny today in Tokyo", "output": "skill=weather; day=today; location=Tokyo"}
+{"input": "is it sunny today in Tokyo", "output": "skill=weather; day=today; location=Tokyo"}
+{"input": "is it sunny today in Tokyo", "output": "skill=weather; day=today; location=Tokyo"}
+{"input": "remind me at 3pm thursday to file the plants", "output": "skill=reminder; task=file the plants; day=thursday; time=15:00"}
+{"input": "remind me at 6 monday to book the invoice", "output": "skill=clarify; question=did you mean 6 AM or 6 PM?"}
+{"input": "ping me tuesday at 4am to pick up the resume", "output": "skill=reminder; task=pick up the resume; day=tuesday; time=04:00"}
+{"input": "I've got to pack the mail saturday at 6pm", "output": "skill=calendar_add; title=pack the mail; day=saturday; time=18:00"}
+{"input": "give me a heads up wednesday at 6pm to file the landlord", "output": "skill=reminder; task=file the landlord; day=wednesday; time=18:00"}
+{"input": "put an event on my calendar for tuesday at one pm to email the plumber", "output": "skill=calendar_add; title=email the plumber; day=tuesday; time=13:00"}
+{"input": "remind me at 4 thursday to book the client", "output": "skill=clarify; question=did you mean 4 AM or 4 PM?"}
+{"input": "what's 12 minus 6", "output": "skill=calculator; expression=12-6"}
+{"input": "[recent: added 'drop off mom' event saturday at 7 pm] change the timing for my drop off mom thing to be 8pm instead of 7pm", "output": "skill=calendar_update; title=drop off mom; new_time=20:00; day=saturday"}
+{"input": "feed mom is happening thursday at 10am", "output": "skill=calendar_add; title=feed mom; day=thursday; time=10:00"}
+{"input": "remind me at 4 pm wednesday to call the report", "output": "skill=reminder; task=call the report; day=wednesday; time=16:00"}
+{"input": "calculate twelve plus eighteen", "output": "skill=calculator; expression=12+18"}
+{"input": "calculate ten times eleven", "output": "skill=calculator; expression=10*11"}
+{"input": "[recent: added 'update the interview' event friday at 5pm] remove that event", "output": "skill=calendar_delete; title=update the interview; day=friday"}
+{"input": "[recent: added 'email the taxes' event wednesday at 9am] delete it", "output": "skill=calendar_delete; title=email the taxes; day=wednesday"}
+{"input": "remind me at 12 tuesday to pay the lease", "output": "skill=clarify; question=did you mean 12 AM or 12 PM?"}
+{"input": "I have a meeting with my sister tuesday at 5 pm", "output": "skill=calendar_add; title=meeting with my sister; day=tuesday; time=17:00"}
+{"input": "what is 7 times 12", "output": "skill=calculator; expression=7*12"}
+{"input": "remind me at 2 wednesday to check on the flight tickets", "output": "skill=clarify; question=did you mean 2 AM or 2 PM?"}
+{"input": "remind me at 9 sunday to walk the dentist", "output": "skill=clarify; question=did you mean 9 AM or 9 PM?"}
+{"input": "[recent: added 'repair the meeting' event tuesday at 9 pm] cancel that", "output": "skill=calendar_delete; title=repair the meeting; day=tuesday"}
+{"input": "block off monday afternoon at 3 pm for meet with the laundry", "output": "skill=calendar_add; title=meet with the laundry; day=monday; time=15:00"}
+{"input": "[recent: added 'check on the invoice' event saturday at 1pm] move it forward an hour", "output": "skill=calendar_update; title=check on the invoice; new_time=14:00; day=saturday"}
+{"input": "block off tomorrow evening at 1am for pack the cat", "output": "skill=calendar_add; title=pack the cat; day=tomorrow; time=01:00"}
+{"input": "add an event for monday at midnight to review the trash", "output": "skill=calendar_add; title=review the trash; day=monday; time=00:00"}
+{"input": "I have a meeting with the vendor saturday at 8am", "output": "skill=calendar_add; title=meeting with the vendor; day=saturday; time=08:00"}
+{"input": "is the concert still happening tonight", "output": "skill=research_needed"}
+{"input": "is the concert still happening tonight", "output": "skill=research_needed"}
+{"input": "is the concert still happening tonight", "output": "skill=research_needed"}
+{"input": "is the concert still happening tonight", "output": "skill=research_needed"}
+{"input": "is the concert still happening tonight", "output": "skill=research_needed"}
+{"input": "is the concert still happening tonight", "output": "skill=research_needed"}
+{"input": "is the concert still happening tonight", "output": "skill=research_needed"}
+{"input": "is the concert still happening tonight", "output": "skill=research_needed"}
+{"input": "is the concert still happening tonight", "output": "skill=research_needed"}
+{"input": "is the concert still happening tonight", "output": "skill=research_needed"}
+{"input": "is the concert still happening tonight", "output": "skill=research_needed"}
+{"input": "is the concert still happening tonight", "output": "skill=research_needed"}
+{"input": "is the concert still happening tonight", "output": "skill=research_needed"}
+{"input": "is the concert still happening tonight", "output": "skill=research_needed"}
+{"input": "is the concert still happening tonight", "output": "skill=research_needed"}
+{"input": "is the concert still happening tonight", "output": "skill=research_needed"}
+{"input": "is the concert still happening tonight", "output": "skill=research_needed"}
+{"input": "[recent: added 'finish the doctor' event wednesday at 6am] move it forward an hour", "output": "skill=calendar_update; title=finish the doctor; new_time=07:00; day=wednesday"}
+{"input": "[recent: added 'file the resume' event thursday at 12pm] cancel that", "output": "skill=calendar_delete; title=file the resume; day=thursday"}
+{"input": "schedule an event for tuesday at five am to organize the resume", "output": "skill=calendar_add; title=organize the resume; day=tuesday; time=05:00"}
+{"input": "I have a meeting with Jake friday at 7am", "output": "skill=calendar_add; title=meeting with Jake; day=friday; time=07:00"}
+{"input": "remind me at 1 tomorrow to finish the insurance", "output": "skill=clarify; question=did you mean 1 AM or 1 PM?"}
+{"input": "do I need a jacket today in my area", "output": "skill=weather; day=today; location=my area"}
+{"input": "do I need a jacket today in my area", "output": "skill=weather; day=today; location=my area"}
+{"input": "do I need a jacket today in my area", "output": "skill=weather; day=today; location=my area"}
+{"input": "remind me at 9 monday to buy the kids", "output": "skill=clarify; question=did you mean 9 AM or 9 PM?"}
+{"input": "add an event for friday at 10am to visit the oven", "output": "skill=calendar_add; title=visit the oven; day=friday; time=10:00"}
+{"input": "can you set an event for friday at 4 pm to update the meeting", "output": "skill=calendar_add; title=update the meeting; day=friday; time=16:00"}
+{"input": "I have a meeting with my roommate sunday at 5pm", "output": "skill=calendar_add; title=meeting with my roommate; day=sunday; time=17:00"}
+{"input": "make an event for sunday at 5 am to check on the passport", "output": "skill=calendar_add; title=check on the passport; day=sunday; time=05:00"}
+{"input": "make sure I pay the vet wednesday at 4 pm", "output": "skill=reminder; task=pay the vet; day=wednesday; time=16:00"}
+{"input": "remind me at 12 saturday to fix the contract", "output": "skill=clarify; question=did you mean 12 AM or 12 PM?"}
+{"input": "what's the current price of that", "output": "skill=research_needed"}
+{"input": "what's the current price of that", "output": "skill=research_needed"}
+{"input": "what's the current price of that", "output": "skill=research_needed"}
+{"input": "what's the current price of that", "output": "skill=research_needed"}
+{"input": "what's the current price of that", "output": "skill=research_needed"}
+{"input": "what's the current price of that", "output": "skill=research_needed"}
+{"input": "what's the current price of that", "output": "skill=research_needed"}
+{"input": "what's the current price of that", "output": "skill=research_needed"}
+{"input": "what's the current price of that", "output": "skill=research_needed"}
+{"input": "what's the current price of that", "output": "skill=research_needed"}
+{"input": "what's the current price of that", "output": "skill=research_needed"}
+{"input": "what's the current price of that", "output": "skill=research_needed"}
+{"input": "what's the current price of that", "output": "skill=research_needed"}
+{"input": "what is 7 plus 7", "output": "skill=calculator; expression=7+7"}
+{"input": "remind me at 2 wednesday to back up the meeting", "output": "skill=clarify; question=did you mean 2 AM or 2 PM?"}
+{"input": "remind me at 5 friday to return the bank", "output": "skill=clarify; question=did you mean 5 AM or 5 PM?"}
+{"input": "put an event on my calendar for tuesday at 9am to prep for the accountant", "output": "skill=calendar_add; title=prep for the accountant; day=tuesday; time=09:00"}
+{"input": "[recent: added 'check on the team' event today at 9pm] move it forward an hour", "output": "skill=calendar_update; title=check on the team; new_time=22:00; day=today"}
+{"input": "remind me at 9 pm friday to sign the flight", "output": "skill=reminder; task=sign the flight; day=friday; time=21:00"}
+{"input": "remind me at 7 monday to call the landlord", "output": "skill=clarify; question=did you mean 7 AM or 7 PM?"}
+{"input": "add an event for friday at noon to clean the trash", "output": "skill=calendar_add; title=clean the trash; day=friday; time=12:00"}
+{"input": "don't forget pack groceries on today at 11 am", "output": "skill=calendar_add; title=pack groceries; day=today; time=11:00"}
+{"input": "ping me thursday at 3pm to confirm the flight tickets", "output": "skill=reminder; task=confirm the flight tickets; day=thursday; time=15:00"}
+{"input": "[recent: added 'file the garden' event today at 4pm] delete it", "output": "skill=calendar_delete; title=file the garden; day=today"}
+{"input": "calculate two times sixteen", "output": "skill=calculator; expression=2*16"}
+{"input": "remind me at 4 wednesday to check on the laptop", "output": "skill=clarify; question=did you mean 4 AM or 4 PM?"}
+{"input": "add an event for thursday at midnight to print the accountant", "output": "skill=calendar_add; title=print the accountant; day=thursday; time=00:00"}
+{"input": "calculate 13 plus 2", "output": "skill=calculator; expression=13+2"}
+{"input": "calculate 10 plus 18", "output": "skill=calculator; expression=10+18"}
+{"input": "[recent: added 'confirm the taxes' event thursday at 8pm] change the timing for my confirm the taxes thing to be 9pm instead of 8 pm", "output": "skill=calendar_update; title=confirm the taxes; new_time=21:00; day=thursday"}
+{"input": "make sure I call the taxes tomorrow at 7am", "output": "skill=reminder; task=call the taxes; day=tomorrow; time=07:00"}
+{"input": "make sure I cancel the contract sunday at 2 pm", "output": "skill=reminder; task=cancel the contract; day=sunday; time=14:00"}
+{"input": "calculate 20 divided by 8", "output": "skill=calculator; expression=20/8"}
+{"input": "set up an event for wednesday at 12 pm to install the project", "output": "skill=calendar_add; title=install the project; day=wednesday; time=12:00"}
+{"input": "remind me at 8 friday to meet with the neighbors", "output": "skill=clarify; question=did you mean 8 AM or 8 PM?"}
+{"input": "remind me at 9 friday to sign the landlord", "output": "skill=clarify; question=did you mean 9 AM or 9 PM?"}
+{"input": "[recent: added 'check on the kids' event tomorrow at 7am] cancel that", "output": "skill=calendar_delete; title=check on the kids; day=tomorrow"}
+{"input": "calculate 20 times 4", "output": "skill=calculator; expression=20*4"}
+{"input": "what's 19 plus 7", "output": "skill=calculator; expression=19+7"}
+{"input": "could you please add an event for friday at 5am to sign the plumber", "output": "skill=calendar_add; title=sign the plumber; day=friday; time=05:00"}
+{"input": "[recent: added 'clean the passport' event saturday at 9am] put that meeting we talked about earlier back an hour", "output": "skill=calendar_update; title=clean the passport; new_time=10:00; day=saturday"}
+{"input": "[recent: added 'return the cat' event saturday at 11pm] move it forward an hour", "output": "skill=calendar_update; title=return the cat; new_time=12:00; day=saturday"}
+{"input": "[recent: added 'back up the landlord' event tuesday at 5pm] put that meeting we talked about earlier back an hour", "output": "skill=calendar_update; title=back up the landlord; new_time=18:00; day=tuesday"}
+{"input": "I have a meeting with Sarah tuesday at 7 am", "output": "skill=calendar_add; title=meeting with Sarah; day=tuesday; time=07:00"}
+{"input": "calculate seventeen times twelve", "output": "skill=calculator; expression=17*12"}
+{"input": "calculate seventeen times twelve", "output": "skill=calculator; expression=17*12"}
+{"input": "[recent: added 'confirm the doctor' event wednesday at 7am] remove that event", "output": "skill=calendar_delete; title=confirm the doctor; day=wednesday"}
+{"input": "[recent: added 'repair groceries' event thursday at 5am] delete it", "output": "skill=calendar_delete; title=repair groceries; day=thursday"}
+{"input": "[recent: added 'file dad' event thursday at 9 am] cancel the file dad event", "output": "skill=calendar_delete; title=file dad; day=thursday"}
+{"input": "[recent: added 'buy the laundry' event wednesday at 12 am] cancel the buy the laundry event", "output": "skill=calendar_delete; title=buy the laundry; day=wednesday"}
+{"input": "[recent: added 'pick up the bank' event tuesday at 7pm] move it forward an hour", "output": "skill=calendar_update; title=pick up the bank; new_time=20:00; day=tuesday"}
+{"input": "what's it like outside tomorrow in London", "output": "skill=weather; day=tomorrow; location=London"}
+{"input": "what's it like outside tomorrow in London", "output": "skill=weather; day=tomorrow; location=London"}
+{"input": "what's it like outside tomorrow in London", "output": "skill=weather; day=tomorrow; location=London"}
+{"input": "what's it like outside tomorrow in London", "output": "skill=weather; day=tomorrow; location=London"}
+{"input": "remind me at 12 sunday to charge the accountant", "output": "skill=clarify; question=did you mean 12 AM or 12 PM?"}
+{"input": "[recent: added 'charge the dog' event tomorrow at 8 pm] move it forward an hour", "output": "skill=calendar_update; title=charge the dog; new_time=21:00; day=tomorrow"}
+{"input": "there's a meeting wednesday at 1am", "output": "skill=clarify; question=what's it about, or who's it with?"}
+{"input": "set a reminder for 11 am tomorrow to feed the plumber", "output": "skill=reminder; task=feed the plumber; day=tomorrow; time=11:00"}
+{"input": "block off monday afternoon at 3am for fix the resume", "output": "skill=calendar_add; title=fix the resume; day=monday; time=03:00"}
+{"input": "make sure I back up the dog today at 7pm", "output": "skill=reminder; task=back up the dog; day=today; time=19:00"}
+{"input": "could you please add an event for tomorrow at 4am to confirm the report", "output": "skill=calendar_add; title=confirm the report; day=tomorrow; time=04:00"}
+{"input": "don't forget pick up the invoice on thursday at 6am", "output": "skill=calendar_add; title=pick up the invoice; day=thursday; time=06:00"}
+{"input": "I have a meeting with the professor saturday at 12pm", "output": "skill=calendar_add; title=meeting with the professor; day=saturday; time=12:00"}
+{"input": "[recent: added 'feed the mail' event sunday at 3 am] cancel that", "output": "skill=calendar_delete; title=feed the mail; day=sunday"}
+{"input": "remind me at 5 monday to submit the plants", "output": "skill=clarify; question=did you mean 5 AM or 5 PM?"}
+{"input": "schedule an event for friday at 2 am to review the bank", "output": "skill=calendar_add; title=review the bank; day=friday; time=02:00"}
+{"input": "can you set an event for thursday at eight am to prep for the plants", "output": "skill=calendar_add; title=prep for the plants; day=thursday; time=08:00"}
+{"input": "[recent: added 'prep for the laundry' event sunday at 2am] move it forward an hour", "output": "skill=calendar_update; title=prep for the laundry; new_time=03:00; day=sunday"}
+{"input": "[recent: added 'book the bank' event sunday at 5pm] put that meeting we talked about earlier back an hour", "output": "skill=calendar_update; title=book the bank; new_time=18:00; day=sunday"}
+{"input": "remind me at noon tomorrow to pay rent", "output": "skill=reminder; task=pay rent; day=tomorrow; time=12:00"}
+{"input": "[recent: added 'meet with the presentation' event tomorrow at 10pm] change the timing for my meet with the presentation thing to be 11pm instead of 10pm", "output": "skill=calendar_update; title=meet with the presentation; new_time=23:00; day=tomorrow"}
+{"input": "[recent: added 'finish the laptop' event monday at 12pm] remove that event", "output": "skill=calendar_delete; title=finish the laptop; day=monday"}
+{"input": "[recent: added 'drop off the neighbors' event friday at 9am] change the timing for my drop off the neighbors thing to be 10am instead of 9am", "output": "skill=calendar_update; title=drop off the neighbors; new_time=10:00; day=friday"}
+{"input": "remind me at 5 monday to water the subscription", "output": "skill=clarify; question=did you mean 5 AM or 5 PM?"}
+{"input": "fix the project is happening tuesday at 6am", "output": "skill=calendar_add; title=fix the project; day=tuesday; time=06:00"}
+{"input": "what is seven divided by nineteen", "output": "skill=calculator; expression=7/19"}
+{"input": "[recent: added 'organize the electrician' event tomorrow at 5am] cancel that", "output": "skill=calendar_delete; title=organize the electrician; day=tomorrow"}
+{"input": "I have a meeting with Alex wednesday at 12 pm", "output": "skill=calendar_add; title=meeting with Alex; day=wednesday; time=12:00"}
+{"input": "can we schedule print the doctor for thursday at 7 am", "output": "skill=calendar_add; title=print the doctor; day=thursday; time=07:00"}
+{"input": "[recent: added 'meet with the landlord' event saturday at 4pm] remove that event", "output": "skill=calendar_delete; title=meet with the landlord; day=saturday"}
+{"input": "[recent: added 'install the plumber' event sunday at 4am] remove that event", "output": "skill=calendar_delete; title=install the plumber; day=sunday"}
+{"input": "[recent: added 'organize the dog' event tuesday at 2am] put that meeting we talked about earlier back an hour", "output": "skill=calendar_update; title=organize the dog; new_time=03:00; day=tuesday"}
+{"input": "can you set an event for tuesday at 6am to update the garden", "output": "skill=calendar_add; title=update the garden; day=tuesday; time=06:00"}
+{"input": "[recent: added 'file the resume' event wednesday at 12 pm] delete it", "output": "skill=calendar_delete; title=file the resume; day=wednesday"}
+{"input": "[recent: added 'repair the garden' event wednesday at 7pm] cancel that", "output": "skill=calendar_delete; title=repair the garden; day=wednesday"}
+{"input": "what's ten divided by twenty", "output": "skill=calculator; expression=10/20"}
+{"input": "add an event for today at noon to confirm the plumber", "output": "skill=calendar_add; title=confirm the plumber; day=today; time=12:00"}
+{"input": "what's fifteen plus seventeen", "output": "skill=calculator; expression=15+17"}
+{"input": "make sure I call the car friday at 4 pm", "output": "skill=reminder; task=call the car; day=friday; time=16:00"}
+{"input": "put an event on my calendar for saturday at 6am to finish the vet", "output": "skill=calendar_add; title=finish the vet; day=saturday; time=06:00"}
+{"input": "[recent: added 'visit the lease' event tuesday at 8pm] cancel that", "output": "skill=calendar_delete; title=visit the lease; day=tuesday"}
+{"input": "I have a meeting with the contractor monday at 5 pm", "output": "skill=calendar_add; title=meeting with the contractor; day=monday; time=17:00"}
+{"input": "I have a meeting with Raj tomorrow at 4am", "output": "skill=calendar_add; title=meeting with Raj; day=tomorrow; time=04:00"}
+{"input": "[recent: added 'water the client' event wednesday at 7pm] put that meeting we talked about earlier back an hour", "output": "skill=calendar_update; title=water the client; new_time=20:00; day=wednesday"}
+{"input": "there's a meeting tuesday at 12am", "output": "skill=clarify; question=what's it about, or who's it with?"}
+{"input": "[recent: added 'book the laptop' event saturday at 5pm] can you move the book the laptop event to 6pm", "output": "skill=calendar_update; title=book the laptop; new_time=18:00; day=saturday"}
+{"input": "remind me at 11 tuesday to water the laundry", "output": "skill=clarify; question=did you mean 11 AM or 11 PM?"}
+{"input": "there's a thing monday I need to remember", "output": "skill=clarify; question=what's the event, and when exactly?"}
+{"input": "there's a thing monday I need to remember", "output": "skill=clarify; question=what's the event, and when exactly?"}
+{"input": "remind me at 8am friday to sign the contract", "output": "skill=reminder; task=sign the contract; day=friday; time=08:00"}
+{"input": "I have a meeting with my roommate tomorrow at 9am", "output": "skill=calendar_add; title=meeting with my roommate; day=tomorrow; time=09:00"}
+{"input": "I think I'm getting sick", "output": "skill=conversation"}
+{"input": "I think I'm getting sick", "output": "skill=conversation"}
+{"input": "I think I'm getting sick", "output": "skill=conversation"}
+{"input": "I think I'm getting sick", "output": "skill=conversation"}
+{"input": "I think I'm getting sick", "output": "skill=conversation"}
+{"input": "I think I'm getting sick", "output": "skill=conversation"}
+{"input": "I think I'm getting sick", "output": "skill=conversation"}
+{"input": "I think I'm getting sick", "output": "skill=conversation"}
+{"input": "I think I'm getting sick", "output": "skill=conversation"}
+{"input": "I think I'm getting sick", "output": "skill=conversation"}
+{"input": "I think I'm getting sick", "output": "skill=conversation"}
+{"input": "I think I'm getting sick", "output": "skill=conversation"}
+{"input": "I think I'm getting sick", "output": "skill=conversation"}
+{"input": "I think I'm getting sick", "output": "skill=conversation"}
+{"input": "I think I'm getting sick", "output": "skill=conversation"}
+{"input": "I think I'm getting sick", "output": "skill=conversation"}
+{"input": "I think I'm getting sick", "output": "skill=conversation"}
+{"input": "I think I'm getting sick", "output": "skill=conversation"}
+{"input": "I think I'm getting sick", "output": "skill=conversation"}
+{"input": "I think I'm getting sick", "output": "skill=conversation"}
+{"input": "I think I'm getting sick", "output": "skill=conversation"}
+{"input": "what is 14 times 10", "output": "skill=calculator; expression=14*10"}
+{"input": "can we schedule book the trash for thursday at 4pm", "output": "skill=calendar_add; title=book the trash; day=thursday; time=16:00"}
+{"input": "make an event for tuesday at 7 pm to repair the gym membership", "output": "skill=calendar_add; title=repair the gym membership; day=tuesday; time=19:00"}
+{"input": "I have a meeting with my manager tuesday at 5 am", "output": "skill=calendar_add; title=meeting with my manager; day=tuesday; time=05:00"}
+{"input": "is it gonna be nice out today", "output": "skill=weather; day=today; location=unspecified"}
+{"input": "is it gonna be nice out today", "output": "skill=weather; day=today; location=unspecified"}
+{"input": "is it gonna be nice out today", "output": "skill=weather; day=today; location=unspecified"}
+{"input": "is it gonna be nice out today", "output": "skill=weather; day=today; location=unspecified"}
+{"input": "is it gonna be nice out today", "output": "skill=weather; day=today; location=unspecified"}
+{"input": "is it gonna be nice out today", "output": "skill=weather; day=today; location=unspecified"}
+{"input": "is it gonna be nice out today", "output": "skill=weather; day=today; location=unspecified"}
+{"input": "is it gonna be nice out today", "output": "skill=weather; day=today; location=unspecified"}
+{"input": "is it gonna be nice out today", "output": "skill=weather; day=today; location=unspecified"}
+{"input": "is it gonna be nice out today", "output": "skill=weather; day=today; location=unspecified"}
+{"input": "is it gonna be nice out today", "output": "skill=weather; day=today; location=unspecified"}
+{"input": "is it gonna be nice out today", "output": "skill=weather; day=today; location=unspecified"}
+{"input": "is it gonna be nice out today", "output": "skill=weather; day=today; location=unspecified"}
+{"input": "is it gonna be nice out today", "output": "skill=weather; day=today; location=unspecified"}
+{"input": "is it gonna be nice out today", "output": "skill=weather; day=today; location=unspecified"}
+{"input": "is it gonna be nice out today", "output": "skill=weather; day=today; location=unspecified"}
+{"input": "is it gonna be nice out today", "output": "skill=weather; day=today; location=unspecified"}
+{"input": "is it gonna be nice out today", "output": "skill=weather; day=today; location=unspecified"}
+{"input": "is it gonna be nice out today", "output": "skill=weather; day=today; location=unspecified"}
+{"input": "is it gonna be nice out today", "output": "skill=weather; day=today; location=unspecified"}
+{"input": "is it gonna be nice out today", "output": "skill=weather; day=today; location=unspecified"}
+{"input": "is it gonna be nice out today", "output": "skill=weather; day=today; location=unspecified"}
+{"input": "is it gonna be nice out today", "output": "skill=weather; day=today; location=unspecified"}
+{"input": "is it gonna be nice out today", "output": "skill=weather; day=today; location=unspecified"}
+{"input": "is it gonna be nice out today", "output": "skill=weather; day=today; location=unspecified"}
+{"input": "is it gonna be nice out today", "output": "skill=weather; day=today; location=unspecified"}
+{"input": "is it gonna be nice out today", "output": "skill=weather; day=today; location=unspecified"}
+{"input": "remind me at 4 monday to check on the laptop", "output": "skill=clarify; question=did you mean 4 AM or 4 PM?"}
+{"input": "[recent: added 'walk the accountant' event thursday at 2 pm] delete it", "output": "skill=calendar_delete; title=walk the accountant; day=thursday"}
+{"input": "how hot is it going to be tomorrow in Toronto", "output": "skill=weather; day=tomorrow; location=Toronto"}
+{"input": "how hot is it going to be tomorrow in Toronto", "output": "skill=weather; day=tomorrow; location=Toronto"}
+{"input": "how hot is it going to be tomorrow in Toronto", "output": "skill=weather; day=tomorrow; location=Toronto"}
+{"input": "how hot is it going to be tomorrow in Toronto", "output": "skill=weather; day=tomorrow; location=Toronto"}
+{"input": "how hot is it going to be tomorrow in Toronto", "output": "skill=weather; day=tomorrow; location=Toronto"}
+{"input": "calculate sixteen plus six", "output": "skill=calculator; expression=16+6"}
+{"input": "[recent: added 'drop off the project' event today at 4pm] move it forward an hour", "output": "skill=calendar_update; title=drop off the project; new_time=17:00; day=today"}
+{"input": "could you please add an event for sunday at 4pm to pay the plumber", "output": "skill=calendar_add; title=pay the plumber; day=sunday; time=16:00"}
+{"input": "I've got something going on tuesday", "output": "skill=clarify; question=what's the event, and when exactly?"}
+{"input": "I've got something going on tuesday", "output": "skill=clarify; question=what's the event, and when exactly?"}
+{"input": "[recent: added 'book the doctor' event friday at 7 pm] cancel that", "output": "skill=calendar_delete; title=book the doctor; day=friday"}
+{"input": "I have a meeting tuesday at 6pm", "output": "skill=clarify; question=what's it about, or who's it with?"}
+{"input": "I have a meeting thursday at 2 pm", "output": "skill=clarify; question=what's it about, or who's it with?"}
+{"input": "[recent: added 'water the interview' event wednesday at 6am] move it forward an hour", "output": "skill=calendar_update; title=water the interview; new_time=07:00; day=wednesday"}
+{"input": "don't forget restart the doctor on tomorrow at 4pm", "output": "skill=calendar_add; title=restart the doctor; day=tomorrow; time=16:00"}
+{"input": "remind me at 12 friday to text the insurance", "output": "skill=clarify; question=did you mean 12 AM or 12 PM?"}
+{"input": "[recent: added 'finish the mail' event saturday at 7 am] put that meeting we talked about earlier back an hour", "output": "skill=calendar_update; title=finish the mail; new_time=08:00; day=saturday"}
+{"input": "[recent: added 'fix the resume' event tuesday at 11pm] cancel that", "output": "skill=calendar_delete; title=fix the resume; day=tuesday"}
+{"input": "can you help me weigh the pros and cons of something", "output": "skill=conversation"}
+{"input": "can you help me weigh the pros and cons of something", "output": "skill=conversation"}
+{"input": "can you help me weigh the pros and cons of something", "output": "skill=conversation"}
+{"input": "can you help me weigh the pros and cons of something", "output": "skill=conversation"}
+{"input": "can you help me weigh the pros and cons of something", "output": "skill=conversation"}
+{"input": "can you help me weigh the pros and cons of something", "output": "skill=conversation"}
+{"input": "can you help me weigh the pros and cons of something", "output": "skill=conversation"}
+{"input": "can you help me weigh the pros and cons of something", "output": "skill=conversation"}
+{"input": "can you help me weigh the pros and cons of something", "output": "skill=conversation"}
+{"input": "can you help me weigh the pros and cons of something", "output": "skill=conversation"}
+{"input": "can you help me weigh the pros and cons of something", "output": "skill=conversation"}
+{"input": "can you help me weigh the pros and cons of something", "output": "skill=conversation"}
+{"input": "can you help me weigh the pros and cons of something", "output": "skill=conversation"}
+{"input": "can you help me weigh the pros and cons of something", "output": "skill=conversation"}
+{"input": "[recent: added 'update the gym membership' event friday at 11pm] delete it", "output": "skill=calendar_delete; title=update the gym membership; day=friday"}
+{"input": "[recent: added 'text dad' event saturday at 6am] cancel that", "output": "skill=calendar_delete; title=text dad; day=saturday"}
+{"input": "set a reminder for 5 pm tomorrow to feed the neighbors", "output": "skill=reminder; task=feed the neighbors; day=tomorrow; time=17:00"}
+{"input": "something's going on today I don't want to forget", "output": "skill=clarify; question=what's the event, and when exactly?"}
+{"input": "ping me saturday at 9am to update the neighbors", "output": "skill=reminder; task=update the neighbors; day=saturday; time=09:00"}
+{"input": "is there a delay on the subway right now", "output": "skill=research_needed"}
+{"input": "is there a delay on the subway right now", "output": "skill=research_needed"}
+{"input": "is there a delay on the subway right now", "output": "skill=research_needed"}
+{"input": "is there a delay on the subway right now", "output": "skill=research_needed"}
+{"input": "is there a delay on the subway right now", "output": "skill=research_needed"}
+{"input": "is there a delay on the subway right now", "output": "skill=research_needed"}
+{"input": "is there a delay on the subway right now", "output": "skill=research_needed"}
+{"input": "is there a delay on the subway right now", "output": "skill=research_needed"}
+{"input": "is there a delay on the subway right now", "output": "skill=research_needed"}
+{"input": "is there a delay on the subway right now", "output": "skill=research_needed"}
+{"input": "is there a delay on the subway right now", "output": "skill=research_needed"}
+{"input": "is there a delay on the subway right now", "output": "skill=research_needed"}
+{"input": "is there a delay on the subway right now", "output": "skill=research_needed"}
+{"input": "is there a delay on the subway right now", "output": "skill=research_needed"}
+{"input": "is there a delay on the subway right now", "output": "skill=research_needed"}
+{"input": "is there a delay on the subway right now", "output": "skill=research_needed"}
+{"input": "is there a delay on the subway right now", "output": "skill=research_needed"}
+{"input": "is there a delay on the subway right now", "output": "skill=research_needed"}
+{"input": "is there a delay on the subway right now", "output": "skill=research_needed"}
+{"input": "is there a delay on the subway right now", "output": "skill=research_needed"}
+{"input": "is there a delay on the subway right now", "output": "skill=research_needed"}
+{"input": "what's 16 plus 1", "output": "skill=calculator; expression=16+1"}
+{"input": "[recent: added 'review the mail' event wednesday at 4pm] can you move the review the mail event to 5 pm", "output": "skill=calendar_update; title=review the mail; new_time=17:00; day=wednesday"}
+{"input": "give me a heads up saturday at 4am to pack the laundry", "output": "skill=reminder; task=pack the laundry; day=saturday; time=04:00"}
+{"input": "I have a meeting with Mei monday at 8 pm", "output": "skill=calendar_add; title=meeting with Mei; day=monday; time=20:00"}
+{"input": "nudge me at 9pm sunday, need to prep for the router", "output": "skill=reminder; task=prep for the router; day=sunday; time=21:00"}
+{"input": "[recent: added 'review the PR' event today at 10 pm] cancel the review the PR event", "output": "skill=calendar_delete; title=review the PR; day=today"}
+{"input": "what's eleven divided by five", "output": "skill=calculator; expression=11/5"}
+{"input": "I have a meeting with the contractor saturday at 7am", "output": "skill=calendar_add; title=meeting with the contractor; day=saturday; time=07:00"}
+{"input": "I have a meeting with the landlord monday at 5am", "output": "skill=calendar_add; title=meeting with the landlord; day=monday; time=05:00"}
+{"input": "[recent: added 'visit the bank' event monday at 4pm] remove that event", "output": "skill=calendar_delete; title=visit the bank; day=monday"}
+{"input": "nudge me at 6pm friday, need to fix the flight", "output": "skill=reminder; task=fix the flight; day=friday; time=18:00"}
+{"input": "schedule an event for tomorrow at 10pm to repair the flight", "output": "skill=calendar_add; title=repair the flight; day=tomorrow; time=22:00"}
+{"input": "[recent: added 'meet with the bank' event today at 5pm] cancel that", "output": "skill=calendar_delete; title=meet with the bank; day=today"}
+{"input": "[recent: added 'cancel the bank' event wednesday at 3pm] remove that event", "output": "skill=calendar_delete; title=cancel the bank; day=wednesday"}
+{"input": "what is 5 plus 10", "output": "skill=calculator; expression=5+10"}
+{"input": "remind me at 2 saturday to take out the trash", "output": "skill=clarify; question=did you mean 2 AM or 2 PM?"}
+{"input": "remind me at 2 saturday to take out the trash", "output": "skill=clarify; question=did you mean 2 AM or 2 PM?"}
+{"input": "remind me at 2 tomorrow to buy the cat", "output": "skill=clarify; question=did you mean 2 AM or 2 PM?"}
+{"input": "give me a heads up friday at 8pm to return the cat", "output": "skill=reminder; task=return the cat; day=friday; time=20:00"}
+{"input": "add an event for thursday at noon to confirm the kids", "output": "skill=calendar_add; title=confirm the kids; day=thursday; time=12:00"}
+{"input": "put fix the invoice on the calendar for monday at 3am", "output": "skill=calendar_add; title=fix the invoice; day=monday; time=03:00"}
+{"input": "what's one plus two", "output": "skill=calculator; expression=1+2"}
+{"input": "ping me tuesday at 6am to text the interview", "output": "skill=reminder; task=text the interview; day=tuesday; time=06:00"}
+{"input": "add an event for today at noon to walk the electrician", "output": "skill=calendar_add; title=walk the electrician; day=today; time=12:00"}
+{"input": "how hot is it going to be today in Toronto", "output": "skill=weather; day=today; location=Toronto"}
+{"input": "how hot is it going to be today in Toronto", "output": "skill=weather; day=today; location=Toronto"}
+{"input": "how hot is it going to be today in Toronto", "output": "skill=weather; day=today; location=Toronto"}
+{"input": "how hot is it going to be today in Toronto", "output": "skill=weather; day=today; location=Toronto"}
+{"input": "how hot is it going to be today in Toronto", "output": "skill=weather; day=today; location=Toronto"}
+{"input": "[recent: added 'book the contract' event tuesday at 6am] cancel the book the contract event", "output": "skill=calendar_delete; title=book the contract; day=tuesday"}
+{"input": "[recent: added 'restart the budget' event thursday at 4 pm] delete it", "output": "skill=calendar_delete; title=restart the budget; day=thursday"}
+{"input": "what's 11 minus 2", "output": "skill=calculator; expression=11-2"}
+{"input": "what is seven times seventeen", "output": "skill=calculator; expression=7*17"}
+{"input": "what is seven times seventeen", "output": "skill=calculator; expression=7*17"}
+{"input": "what's the temperature going to be tomorrow in Toronto", "output": "skill=weather; day=tomorrow; location=Toronto"}
+{"input": "what's the temperature going to be tomorrow in Toronto", "output": "skill=weather; day=tomorrow; location=Toronto"}
+{"input": "what's the temperature going to be tomorrow in Toronto", "output": "skill=weather; day=tomorrow; location=Toronto"}
+{"input": "what's the temperature going to be tomorrow in Toronto", "output": "skill=weather; day=tomorrow; location=Toronto"}
+{"input": "set a reminder for 6am tomorrow to meet with the dentist", "output": "skill=reminder; task=meet with the dentist; day=tomorrow; time=06:00"}
+{"input": "yo lowkey remind me deadass at 2pm friday to call the bank fr", "output": "skill=reminder; task=call the bank; day=friday; time=14:00"}
+{"input": "[recent: added 'restart the resume' event friday at 2 pm] cancel that", "output": "skill=calendar_delete; title=restart the resume; day=friday"}
+{"input": "I have a meeting with my brother saturday at 10am", "output": "skill=calendar_add; title=meeting with my brother; day=saturday; time=10:00"}
+{"input": "[recent: added 'pick up the project' event wednesday at 1am] can you move the pick up the project event to 2am", "output": "skill=calendar_update; title=pick up the project; new_time=02:00; day=wednesday"}
+{"input": "give me a heads up friday at 8 am to book the laundry", "output": "skill=reminder; task=book the laundry; day=friday; time=08:00"}
+{"input": "[recent: added 'meet with the contract' event today at 6am] delete it", "output": "skill=calendar_delete; title=meet with the contract; day=today"}
+{"input": "print the cat is happening tuesday at 11 pm", "output": "skill=calendar_add; title=print the cat; day=tuesday; time=23:00"}
+{"input": "set a reminder for 1pm sunday to submit the trash", "output": "skill=reminder; task=submit the trash; day=sunday; time=13:00"}
+{"input": "what's 1 times 4", "output": "skill=calculator; expression=1*4"}
+{"input": "add an event for wednesday at midnight to organize the plumber", "output": "skill=calendar_add; title=organize the plumber; day=wednesday; time=00:00"}
+{"input": "[recent: added 'book the car' event friday at 11am] change the timing for my book the car thing to be 12 am instead of 11am", "output": "skill=calendar_update; title=book the car; new_time=00:00; day=friday"}
+{"input": "remind me at midnight saturday to charge the lease", "output": "skill=reminder; task=charge the lease; day=saturday; time=00:00"}
+{"input": "remind me at 2 sunday to charge the vet", "output": "skill=clarify; question=did you mean 2 AM or 2 PM?"}
+{"input": "nudge me at 12 am saturday, need to fix mom", "output": "skill=reminder; task=fix mom; day=saturday; time=00:00"}
+{"input": "yo lowkey remind me deadass at 9 pm today to clean the client fr", "output": "skill=reminder; task=clean the client; day=today; time=21:00"}
+{"input": "what is two minus fourteen", "output": "skill=calculator; expression=2-14"}
+{"input": "[recent: added 'review the bank' event saturday at 12pm] change the timing for my review the bank thing to be 1pm instead of 12pm", "output": "skill=calendar_update; title=review the bank; new_time=13:00; day=saturday"}
+{"input": "calculate sixteen plus nineteen", "output": "skill=calculator; expression=16+19"}
+{"input": "I have a meeting with Daniel today at 4pm", "output": "skill=calendar_add; title=meeting with Daniel; day=today; time=16:00"}
+{"input": "[recent: added 'restart the laptop' event saturday at 4 am] change the timing for my restart the laptop thing to be 5am instead of 4 am", "output": "skill=calendar_update; title=restart the laptop; new_time=05:00; day=saturday"}
+{"input": "[recent: added 'buy the meeting' event friday at 6 pm] change the timing for my buy the meeting thing to be 7pm instead of 6pm", "output": "skill=calendar_update; title=buy the meeting; new_time=19:00; day=friday"}
+{"input": "what's 17 divided by 8", "output": "skill=calculator; expression=17/8"}
+{"input": "put an event on my calendar for saturday at 11am to book the kids", "output": "skill=calendar_add; title=book the kids; day=saturday; time=11:00"}
+{"input": "[recent: added 'restart the dentist' event tomorrow at 8pm] delete it", "output": "skill=calendar_delete; title=restart the dentist; day=tomorrow"}
+{"input": "remind me at 3 sunday to text the team", "output": "skill=clarify; question=did you mean 3 AM or 3 PM?"}
+{"input": "penciling in review the accountant for sunday at 9 pm", "output": "skill=calendar_add; title=review the accountant; day=sunday; time=21:00"}
+{"input": "remind me at 2 tomorrow to pay the bank", "output": "skill=clarify; question=did you mean 2 AM or 2 PM?"}
+{"input": "I have a meeting with Fatima saturday at 9am", "output": "skill=calendar_add; title=meeting with Fatima; day=saturday; time=09:00"}
+{"input": "ping me tomorrow at 4pm to charge the dentist", "output": "skill=reminder; task=charge the dentist; day=tomorrow; time=16:00"}
+{"input": "remind me at 1 tuesday to prep for the contract", "output": "skill=clarify; question=did you mean 1 AM or 1 PM?"}
+{"input": "add an event for thursday at noon to meet with the laptop", "output": "skill=calendar_add; title=meet with the laptop; day=thursday; time=12:00"}
+{"input": "what is 19 minus 1", "output": "skill=calculator; expression=19-1"}
+{"input": "what is 19 minus 1", "output": "skill=calculator; expression=19-1"}
+{"input": "yo lowkey remind me deadass at 1 pm tomorrow to call the plants fr", "output": "skill=reminder; task=call the plants; day=tomorrow; time=13:00"}
+{"input": "[recent: added 'email the client' event wednesday at 1pm] change the timing for my email the client thing to be 2pm instead of 1 pm", "output": "skill=calendar_update; title=email the client; new_time=14:00; day=wednesday"}
+{"input": "put an event on my calendar for sunday at 11pm to install the dentist", "output": "skill=calendar_add; title=install the dentist; day=sunday; time=23:00"}
+{"input": "set up an event for monday at seven am to water the lease", "output": "skill=calendar_add; title=water the lease; day=monday; time=07:00"}
+{"input": "will it rain today in London", "output": "skill=weather; day=today; location=London"}
+{"input": "I finally cleaned my room after weeks", "output": "skill=conversation"}
+{"input": "I finally cleaned my room after weeks", "output": "skill=conversation"}
+{"input": "I finally cleaned my room after weeks", "output": "skill=conversation"}
+{"input": "I finally cleaned my room after weeks", "output": "skill=conversation"}
+{"input": "I finally cleaned my room after weeks", "output": "skill=conversation"}
+{"input": "I finally cleaned my room after weeks", "output": "skill=conversation"}
+{"input": "I finally cleaned my room after weeks", "output": "skill=conversation"}
+{"input": "I finally cleaned my room after weeks", "output": "skill=conversation"}
+{"input": "I finally cleaned my room after weeks", "output": "skill=conversation"}
+{"input": "I finally cleaned my room after weeks", "output": "skill=conversation"}
+{"input": "I finally cleaned my room after weeks", "output": "skill=conversation"}
+{"input": "I finally cleaned my room after weeks", "output": "skill=conversation"}
+{"input": "I finally cleaned my room after weeks", "output": "skill=conversation"}
+{"input": "I finally cleaned my room after weeks", "output": "skill=conversation"}
+{"input": "I finally cleaned my room after weeks", "output": "skill=conversation"}
+{"input": "I finally cleaned my room after weeks", "output": "skill=conversation"}
+{"input": "remind me at 4 thursday to pick up groceries", "output": "skill=clarify; question=did you mean 4 AM or 4 PM?"}
+{"input": "[recent: added 'walk the laundry' event sunday at 3am] put that meeting we talked about earlier back an hour", "output": "skill=calendar_update; title=walk the laundry; new_time=04:00; day=sunday"}
+{"input": "[recent: added 'walk the dog' event thursday at 12pm] delete it", "output": "skill=calendar_delete; title=walk the dog; day=thursday"}
+{"input": "[recent: added 'submit the kids' event saturday at 7am] put that meeting we talked about earlier back an hour", "output": "skill=calendar_update; title=submit the kids; new_time=08:00; day=saturday"}
+{"input": "yo lowkey remind me deadass at 11 pm monday to renew the dog fr", "output": "skill=reminder; task=renew the dog; day=monday; time=23:00"}
+{"input": "remind me at 2 tuesday to back up the accountant", "output": "skill=clarify; question=did you mean 2 AM or 2 PM?"}
+{"input": "[recent: added 'walk the meeting' event today at 2am] cancel that", "output": "skill=calendar_delete; title=walk the meeting; day=today"}
+{"input": "set up an event for friday at 1am to fix the garden", "output": "skill=calendar_add; title=fix the garden; day=friday; time=01:00"}
+{"input": "calculate nine minus twenty", "output": "skill=calculator; expression=9-20"}
+{"input": "book the passport is happening monday at six am", "output": "skill=calendar_add; title=book the passport; day=monday; time=06:00"}
+{"input": "block off tomorrow night at 12am for book the cat", "output": "skill=calendar_add; title=book the cat; day=tomorrow; time=00:00"}
+{"input": "[recent: added 'meet with the accountant' event friday at 8pm] delete it", "output": "skill=calendar_delete; title=meet with the accountant; day=friday"}
+{"input": "remind me at 11 friday to water the router", "output": "skill=clarify; question=did you mean 11 AM or 11 PM?"}
+{"input": "remind me at midnight sunday to check on the bank", "output": "skill=reminder; task=check on the bank; day=sunday; time=00:00"}
+{"input": "remind me at 6 sunday to pack the trash", "output": "skill=clarify; question=did you mean 6 AM or 6 PM?"}
+{"input": "calculate two minus six", "output": "skill=calculator; expression=2-6"}
+{"input": "[recent: added 'pick up groceries' event wednesday at 9pm] cancel the pick up groceries event", "output": "skill=calendar_delete; title=pick up groceries; day=wednesday"}
+{"input": "[recent: added 'return the oven' event tomorrow at 1am] remove that event", "output": "skill=calendar_delete; title=return the oven; day=tomorrow"}
+{"input": "can we schedule sign the budget for sunday at 7am", "output": "skill=calendar_add; title=sign the budget; day=sunday; time=07:00"}
+{"input": "set a reminder for 7pm saturday to pay the bank", "output": "skill=reminder; task=pay the bank; day=saturday; time=19:00"}
+{"input": "remind me at 4 tuesday to renew the passport", "output": "skill=clarify; question=did you mean 4 AM or 4 PM?"}
+{"input": "[recent: added 'book dad' event monday at 7am] cancel that", "output": "skill=calendar_delete; title=book dad; day=monday"}

@@ -1,0 +1,402 @@
+{"input": "make a script that sorts a list", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "make a script that sorts a list", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "make a script that sorts a list", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "make a script that sorts a list", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "make a script that sorts a list", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "make a script that sorts a list", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "make a script that sorts a list", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "I have a meeting with Priya thursday at 12am", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "Thanks", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "Thanks", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "Thanks", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "Thanks", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "Thanks", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "create a program that sorts a list", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "create a program that sorts a list", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "create a program that sorts a list", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "create a program that sorts a list", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "create a program that sorts a list", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "what's the current status of the weather warning", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "what's the current status of the weather warning", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "what's the current status of the weather warning", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "what's the current status of the weather warning", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "hey any news on the transit strike", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "nudge me at 5am monday, need to email the laptop", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "I have a meeting tomorrow at 9 pm", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "remind me at 4 wednesday to pack the flight tickets", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "remind me at 2 sunday to prep for the resume", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "I'm terrible at remembering appointments without help", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "I'm terrible at remembering appointments without help", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "I'm terrible at remembering appointments without help", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "I'm terrible at remembering appointments without help", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "I'm terrible at remembering appointments without help", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "I'm terrible at remembering appointments without help", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "I'm terrible at remembering appointments without help", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "I'm terrible at remembering appointments without help", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "I'm terrible at remembering appointments without help", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "I'm terrible at remembering appointments without help", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "I'm terrible at remembering appointments without help", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "I'm terrible at remembering appointments without help", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "I'm terrible at remembering appointments without help", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "[recent: added 'check on the oven' event thursday at 8am] can you move the check on the oven event to 9am", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "what's the current price of laptop prices", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "[recent: talking about a movie] for real though", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "[recent: talking about a movie] for real though", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "[recent: talking about a movie] for real though", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "[recent: talking about a movie] for real though", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "make sure I finish the report sunday at 8am", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "write me a script that checks if a number is prime", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "write me a script that checks if a number is prime", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "write me a script that checks if a number is prime", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "write me a script that checks if a number is prime", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "write me a script that checks if a number is prime", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "write me a script that checks if a number is prime", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "write me a script that checks if a number is prime", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "write me a script that checks if a number is prime", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "write me a script that checks if a number is prime", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "write me a script that checks if a number is prime", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "remind me at 12 wednesday to book the dog", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "yo lowkey remind me deadass at 8pm saturday to organize the laundry fr", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "calculate 4 minus 11", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "nudge me at 8pm tomorrow, need to pay the doctor", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "[recent: added 'dentist' event sunday at 12 pm] actually make that an hour later", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "not sure how I feel about this build", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "not sure how I feel about this build", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "not sure how I feel about this build", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "What have you been up to", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "What have you been up to", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "What have you been up to", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "What have you been up to", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "What have you been up to", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "What have you been up to", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "hey what did critics say about the next Paddington film", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "what is seven minus sixteen", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "[recent: added 'cancel the plumber' event saturday at 11pm] change the timing for my cancel the plumber thing to be 12 pm instead of 11pm", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "[recent: added 'buy the laptop' event thursday at 10am] delete it", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "[recent: added 'water the kids' event today at 12 am] cancel that", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "[recent: how much is a new laptop right now] I think you hallucinated that", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "hey when is the next Paddington film being released", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "[recent: run this python snippet] that's not right", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "[recent: run this python snippet] that's not right", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "long day", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "long day", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "remind me at midnight today to sign the client", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "generate a function that finds the largest number in a list", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "generate a function that finds the largest number in a list", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "generate a function that finds the largest number in a list", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "generate a function that finds the largest number in a list", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "generate a function that finds the largest number in a list", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "generate a function that finds the largest number in a list", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "what is nine times ten", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "what is TV prices trading at", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "what is TV prices trading at", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "remind me at 7 monday to prep for the bank", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "what's Wimbledon's record this stage", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "what's Wimbledon's record this stage", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "[recent: added 'drop off the presentation' event tomorrow at 8 pm] can you move the drop off the presentation event to 9pm", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\ndef add(a, b):\n    return a + b\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "any news on the new MacBook?", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "[recent: added 'charge the cat' event tomorrow at 4 am] put that meeting we talked about earlier back an hour", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "[recent: added 'water the trash' event sunday at 8am] cancel that", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "my function isn't hanging right", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "my function isn't hanging right", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "penciling in update the flight tickets for tuesday at 9pm", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "that reminder feature is neat", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "that reminder feature is neat", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "that reminder feature is neat", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "that reminder feature is neat", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "that reminder feature is neat", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "that reminder feature is neat", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "[recent: how much is a new laptop right now] no I meant this season not last", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "[recent: why is my loop not terminating] no, the compiled one", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "[recent: why is my loop not terminating] no, the compiled one", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "schedule an event for friday at 4 am to sign the dentist", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "[recent: why is my loop not terminating] check that again", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "[recent: move my dentist appointment to 4pm] check that again", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "[recent: when is the next Formula 1 race] I said the current price", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "[recent: when is the next Formula 1 race] I said the current price", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "what's the latest news for laptop prices", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "what's the current time in Paris", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "what's the current time in Paris", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "morning ultron, busy day for you", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "did the Super Bowl win?", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "[recent: run this python snippet] no I meant the compiled one", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "[recent: run this python snippet] no I meant the compiled one", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "could you please add an event for wednesday at 2 am to take out the trash", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "[recent: added 'install the bank' event tomorrow at 6pm] change the timing for my install the bank thing to be 7 pm instead of 6pm", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "penciling in print the presentation for monday at 6am", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "[recent: add lunch with Sam at 12:30] I said tomorrow not today", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "yo lowkey remind me deadass at 7 am tomorrow to review the cat fr", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "can you generate something that sorts a list", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "can you generate something that sorts a list", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "can you generate something that sorts a list", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "can you generate something that sorts a list", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "can you generate something that sorts a list", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "remind me at 10 thursday to file the cat", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "when is the transit strike scheduled", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "when is the transit strike scheduled", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "anything new about the interest rate decision", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "anything new about the interest rate decision", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "[recent: how is the home team doing in the league] actually this stage of the tournament", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "how is the chess world championship doing in the standings", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "when is the Formula 1 season being released", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "[recent: how is the home team doing in the league] actually the current price", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "hi", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "hi", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "hi", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "hi", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "hi", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "how far did the chess world championship get?", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "set a reminder for 10 am friday to organize the passport renewal", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "ultron anything new about game console prices", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "[recent: added 'print the laundry' event saturday at 12am] cancel the print the laundry event", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nx = [1, 2, 3]\nprint(sum(x))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "[recent: why is my loop not terminating] I mean the compiled one", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "what's happening with the next Paddington film", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "what's happening with the next Paddington film", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "what's happening with the next Paddington film", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "are TV prices cheaper now", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "remind me at 6 sunday to pack the plants", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "anything new about the interest rate decision?", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "good morning ultron, everything running okay", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "good morning ultron, everything running okay", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "good morning ultron, everything running okay", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "good morning ultron, everything running okay", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "good morning ultron, everything running okay", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "anything new about Bitcoin", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "anything new about Bitcoin", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "anything new about Bitcoin", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "[recent: added 'repair the dog' event tuesday at 4am] put that meeting we talked about earlier back an hour", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "give me an update on gold prices?", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "what's the current status of the NBA finals", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "what's the current status of the NBA finals", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "what's the current status of the NBA finals", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "[recent: what's the rotten tomatoes score for the new Pixar movie] I said this season not last", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "calculate 13 plus 8", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "[recent: added 'restart the trash' event tuesday at 12pm] cancel that", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "could you please add an event for today at 2am to meet with the resume", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "good afternoon ultron, what have you been up to", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "has the interest rate decision released yet", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "has the interest rate decision released yet", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "has the interest rate decision released yet", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "has the interest rate decision released yet", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "can you walk me through this:\n```python\nimport random\nprint(random.randint(1, 6))\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "set up an event for monday at 10pm to walk the plumber", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "[recent: added 'team meeting' event monday at 1 am] actually make that an hour later", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "can you go through www.nationalgeographic.com/animals/", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "is the documentary about the ocean out yet", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "what's happening with the interest rate decision", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "what's happening with the interest rate decision", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "what's happening with the interest rate decision", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "eventbrite.com/e/networking-night-tickets remind me about this tomorrow", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "what was in my the meeting note", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "remind me at 11 friday to pick up the mail", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "create a program that reverses a string", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "create a program that reverses a string", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "create a program that reverses a string", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "create a program that reverses a string", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "check the stopwatch", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "could you please add an event for thursday at 8pm to restart mom", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "[recent: added 'text groceries' event tuesday at 11am] delete it", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "why is my loop not terminating", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "is the next Paddington film out yet", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "ping me tuesday at 9am to back up the presentation", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "generate a function that counts vowels in a word", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "generate a function that counts vowels in a word", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "what is nine divided by twelve", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "I have a meeting with my brother tuesday at 9 am", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "I have a meeting with the contractor sunday at 8 pm", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "let's keep going", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "let's keep going", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "let's keep going", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "let's keep going", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "let's keep going", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "let's keep going", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "what's 5 times 8", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "That match was something else", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "That match was something else", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "give me an update on the cricket world cup", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "give me an update on the cricket world cup", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "what is the next Pixel phone trading at", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "what are the reviews for the new season of that detective show like", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "what are the reviews for the new season of that detective show like", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "set up an event for sunday at 1 am to fix dad", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "what's something interesting you know", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "what's something interesting you know", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "what's something interesting you know", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "what's something interesting you know", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "what's something interesting you know", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "what's something interesting you know", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "do we know when the interest rate decision drops?", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "who won the game last night", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "who won the game last night", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "who won the game last night", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "who won the game last night", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "who won the game last night", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "who won the game last night", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "who won the game last night", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "who won the game last night", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "who won the game last night", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "who won the game last night", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "who won the game last night", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "who won the game last night", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "who won the game last night", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "who won the game last night", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "[recent: added 'go to the gym' event friday at 9pm] can you move the go to the gym event to 10pm", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "what is 4 divided by 1", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "I think my wifi router needs to be replaced", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "I think my wifi router needs to be replaced", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "I think my wifi router needs to be replaced", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "I think my wifi router needs to be replaced", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "I think my wifi router needs to be replaced", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "I think my wifi router needs to be replaced", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "I think my wifi router needs to be replaced", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "[recent: move my dentist appointment to 4pm] not that, at 3pm", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "do we know when the Super Bowl drops", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "[recent: run this python snippet] that's not what I asked", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "[recent: run this python snippet] that's not what I asked", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "[recent: when is the next Formula 1 race] that doesn't match what I said", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "what's happening with TV prices", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "explain this code:\n```python\nclass Dog:\n    def bark(self):\n        return 'woof'\n```", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "has the interest rate decision released yet?", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "has the interest rate decision released yet?", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "remind me at 12 saturday to pay groceries", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "my function isn't timing out right", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "will it rain today in New York", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "will it rain today in New York", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "I have an appointment today at 2pm", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "[recent: added 'buy the trash' event sunday at 3pm] delete it", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "what is smartwatches trading at", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "[recent: write a script that reverses a string] no, with the base as 4", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "this function keeps timing out, any idea why", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "[recent: added 'book the accountant' event saturday at 6 am] can you move the book the accountant event to 7am", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "remind me at 11 thursday to review the team", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "I have a meeting with my brother today at 9pm", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "make an event for wednesday at 10am to drop off the contract", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "[recent: added 'text the contract' event today at 9am] cancel that", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "remind me at 10 sunday to submit the budget", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "everyone's talking about the update", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "[recent: added 'pack groceries' event wednesday at 11 am] cancel that", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "what's 19 minus 9", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "what's happening with electric cars", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "what's happening with electric cars", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "what's happening with electric cars", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "[recent: added 'check on groceries' event sunday at 9am] delete it", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "I'm torn between two options and need to talk it out", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "I'm torn between two options and need to talk it out", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "I'm torn between two options and need to talk it out", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "I'm torn between two options and need to talk it out", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "I'm torn between two options and need to talk it out", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "I'm torn between two options and need to talk it out", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "I'm torn between two options and need to talk it out", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "I'm torn between two options and need to talk it out", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "start a packing note", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "[recent: added 'back up the budget' event friday at 12am] change the timing for my back up the budget thing to be 1am instead of 12am", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "hi, you good", "gold": "conversation", "pred": "conversation", "right": true, "degenerate": false}
+{"input": "[recent: added 'buy the passport renewal' event saturday at 4am] put that meeting we talked about earlier back an hour", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "remind me at 6 saturday to fix groceries", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "this class keeps hanging, any ideas why", "gold": "code_domain", "pred": "code_domain", "right": true, "degenerate": false}
+{"input": "how far did the Tour de France get", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "[recent: added 'confirm mom' event today at 10pm] remove that event", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "[recent: added 'water the plants' event thursday at 9am] change the timing for my water the plants thing to be 10am instead of 9am", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "what time is it in Cairo right now", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "what's 15 minus 5", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "[recent: how is the home team doing in the league] check that again", "gold": "research_needed", "pred": "research_needed", "right": true, "degenerate": false}
+{"input": "what's one divided by two", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "[recent: added 'submit the passport renewal' event tomorrow at 12pm] cancel that", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "add an event for today at noon to walk the dog", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
+{"input": "I've got something going on saturday evening", "gold": "pa_domain", "pred": "pa_domain", "right": true, "degenerate": false}
